@@ -1,28 +1,31 @@
 <!DOCTYPE html>
-
+<script>
+    var __pbpa = true;
+</script>
+<script>
+    var translated_warning_string =
+        'Warnung: Gib dein Tumblr-Passwort nur dann ein, wenn du \u201chttps://www.tumblr.com/login\u201d\x0ain der Adresszeile deines Browsers siehst.\x0a\x0aAu\u00dferdem sollte dort ein gr\u00fcnes \u201cTumblr, Inc.\u201d-Logo zu sehen sein.\x0a\x0aSpammer und andere Strolche benutzen gef\u00e4lschte Formulare, um an Passw\u00f6rter zu kommen.\x0a\x0aTumblr wird dich niemals bitten, dich vom Blog eines Users aus einzuloggen.\x0a\x0aWillst du ganz sicher fortfahren?';
+</script>
+<script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=72f9ed12e463cd01ccbcde7c8bc62281"></script>
+<!DOCTYPE html>
 <html lang="de">
 
-<head>
-
-    <title>{block:IndexPage}Usability Report | Usability & User Experience Blog{/block:IndexPage}{block:PostSummary} {PostSummary}{/block:PostSummary}</title>
-
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <title>Usability Report | Usability & User Experience Blog</title>
+    <link rel="stylesheet" href="styles.css">
     <meta charset="UTF-8">
     <meta name="google-site-verification" content="wvpMOLeiU128cCF6oaDe_SXEUQMzafbP2kPmgqkF2Sw" />
     <meta name="viewport" content="width=device-width" />
     <meta name="description" content="Auf Usability Report erscheinen wöchentlich Artikel mit Tipps und Informationen für angehende Usabilty & User Experience Experten.">
     <meta name="keywords" content="usability, ux, user experience, johannes borchard">
-    <link rel="shortcut icon" href="{Favicon}">
-    <link rel="alternate" type="application/rss+xml" href="{RSS}">
-    <link rel="stylesheet" href="styles.css">
-
+    <link rel="shortcut icon" href="http://68.media.tumblr.com/avatar_68cb7a7b2001_128.png">
+    <link rel="alternate" type="application/rss+xml" href="http://www.usabilityreport.de/rss">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-
-
     <meta name="image:Logo" content="">
     <meta name="if:Show Date" content="1">
     <meta name="if:Show Note Count" content="1">
     <meta name="if:Infinite Scroll" content="1">
-
+    <!-- von Johannes Borchard auf Grundlage von themes.theultralinx.com -->
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -39,163 +42,164 @@
         ga('create', 'UA-62837996-3', 'auto');
         ga('send', 'pageview');
     </script>
-
-
+    <link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=usabilityreport" />
+    <link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=usabilityreport" />
+    <script src="http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=eaeb98f51ce8ef044da5d23afc31336b"></script>
+    <link rel="stylesheet" type="text/css" href="http://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3">
+    <meta name="keywords" content="EinfachErkl&auml;rt,Auflistung,Historie" />
+    <!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+    <!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+    <!-- Read more: http://ogp.me/ -->
+    <meta property="fb:app_id" content="48119224995" />
+    <meta property="og:title" content="Usability Report" />
+    <meta property="og:url" content="http://www.usabilityreport.de/?og=1" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="tumblr-feed:tumblelog" />
+    <meta property="og:image" content="http://68.media.tumblr.com/avatar_68cb7a7b2001_128.png" />
+    <meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=usabilityreport" />
+    <meta property="al:ios:app_name" content="Tumblr" />
+    <meta property="al:ios:app_store_id" content="305343404" />
+    <meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=usabilityreport" />
+    <meta property="al:android:app_name" content="Tumblr" />
+    <meta property="al:android:package" content="com.tumblr" />
+    <!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+    <!-- TWITTER TAGS -->
+    <meta charset="utf-8">
+    <meta name="twitter:site" content="tumblr" />
+    <meta name="twitter:card" content="app" />
+    <meta name="twitter:description" content="usabilityreport" />
+    <meta name="twitter:title" content="usabilityreport" />
+    <meta name="twitter:app:name:iphone" content="Tumblr" />
+    <meta name="twitter:app:name:ipad" content="Tumblr" />
+    <meta name="twitter:app:name:googleplay" content="Tumblr" />
+    <meta name="twitter:app:id:iphone" content="305343404" />
+    <meta name="twitter:app:id:ipad" content="305343404" />
+    <meta name="twitter:app:id:googleplay" content="com.tumblr" />
+    <meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=usabilityreport&amp;referrer=twitter-cards" />
+    <meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=usabilityreport&amp;referrer=twitter-cards" />
+    <meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=usabilityreport&amp;referrer=twitter-cards" />
+    <!-- GOOGLE CAROUSEL -->
+    <script type="application/ld+json">
+        {
+            "@type": "ItemList",
+            "url": "http:\/\/www.usabilityreport.de",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "url": "http:\/\/www.usabilityreport.de\/post\/159821351802\/heuristiken"
+            }, {
+                "@type": "ListItem",
+                "position": 2,
+                "url": "http:\/\/www.usabilityreport.de\/post\/159680897662\/qwerty"
+            }, {
+                "@type": "ListItem",
+                "position": 3,
+                "url": "http:\/\/www.usabilityreport.de\/post\/158024722002\/wireframe-mockup-prototyp"
+            }],
+            "@context": "http:\/\/schema.org"
+        }
+    </script>
+    <link rel="canonical" href="http://www.usabilityreport.de" />
 </head>
-
 
 <body>
     <div class="wrapper">
-
         <div class="header">
             <div class="title">
-                <h1><a href="/">Usability Report</a></h1>
-            </div>
+                <h1><a href="/">Usability Report</a></h1></div>
             <ul class="nav">
-                {block:Pages}
-                <li><a href="{URL}">{Label}</a></li>
-                {/block:Pages}
+                <li><a href="/definition">Usability & UX</a></li>
+                <li><a href="/about">Person</a></li>
+                <li><a href="/manifesto">Manifest</a></li>
+                <li><a href="/articles">Artikel</a></li>
             </ul>
         </div>
-
         <div class="autopagerize_page_element">
-            {block:Posts}
-
-            <div class="post" id="{PostID}">
-                <div class="posts">
-                    {block:Photo}
-                    <div class="media">
-                        {LinkOpenTag}
-                        <img src="{PhotoURL-HighRes}" alt="{PhotoAlt}" /> {LinkCloseTag}
-                    </div>
-                    {block:Caption}
-                    <div class="photoCaption">{Caption}</div>
-                    {/block:Caption} {/block:Photo} {block:Photoset}
-                    <div class="media">{Photoset}</div>
-                    {block:Caption}
-                    <div class="caption">{Caption}</div>
-                    {/block:Caption} {/block:Photoset} {block:Audio}
-                    <div class="audioleft">
-                        <div class="audioc">
-                            <div class="audio">{AudioPlayerBlack}</div>
-                        </div>
-                    </div>
-                    <div class="audioright">
-                        <div class="audioCaption">
-                            {block:Artist}<b>{Artist}</b>{/block:Artist}
-                            <p>&mdash;{block:TrackName}{TrackName}{/block:TrackName}</p>
-                        </div>
-                    </div>
-                    <div class="audioClear"></div>
-                    <div class="audioContainer">
-                        {block:Caption}{Caption}{/block:Caption}
-                    </div>
-                    {/block:Audio} {block:Video}
-                    <div class="js-media media">{Video-700}</div>
-                    {block:Caption}
-                    <div>{Caption}</div>
-                    {/block:Caption} {/block:Video} {block:Answer}
-                    <h3>{Asker} asked: {Question}</h3> {Answer} {/block:Answer}
-                </div>
+            <div class="post" id="159821351802">
+                <div class="posts"></div>
                 <div class="header-posts">
-
-
-
-                    {block:Text} {block:Title} {block:IndexPage}
-                    <h2><a href="{Permalink}">{Title}</a></h2> {/block:IndexPage} {block:Permalink}
-                    <h1>{Title}</h1> {/block:Permalink} {/block:Title}
-                    <div class="text">{Body}</div> {block:Permalink}
-                    <p><a href="http://www.usabilityreport.de">Zurück zur Startseite</a></p>
-                    {/block:Permalink} {/block:Text} {block:Link}
-                    <h2><a href="{URL}" {Target}>{Name} &rarr;</a></h2> {block:Description}
-                    <div>{Description}</div>
-                    {/block:Description} {/block:Link} {block:Quote}
-                    <div class="quote">{Quote}</div>
-                    {block:Source}
-                    <div id="quoteSource">
-                        <p>&mdash; {Source}</p>
+                    <h2><a href="http://www.usabilityreport.de/post/159821351802/heuristiken">Systeme bewerten ohne zu fluchen #1 &ndash; 10 Usability Heuristiken nach Nielsen [Deutsch]</a></h2>
+                    <div class="text">
+                        <p>Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen uns einige Adjektive durch den Kopf&hellip; Doch wenn wir die konkreten Probleme l&ouml;sen m&ouml;chten, helfen uns subjektive Eindr&uuml;cke wenig.</p>
+                        <p>Die Methode der <em>Heuristischen Evaluation</em> erlaubt uns, mit wenig Zeit und Aufwand ann&auml;hernd objektive Aussagen &uuml;ber die Benutzerfreundlichkeit eines Systems zu treffen.</p>
+                        <p>Diese Artikelserie erkl&auml;rt zun&auml;chst den Begriff und f&uuml;hrt die <em>10 Heuristiken</em> von <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.nngroup.com%2Fpeople%2Fjakob-nielsen%2F&amp;t=OTM0NWI3NWU1NzViZDdkNmY4MmMzZjYzNzE5Zjg2NzBkY2ViNTliMCw1UUV6ZmtHUQ%3D%3D&amp;b=t%3A_YL-5kVs9_kumoWv-c_YOw&amp;p=http%3A%2F%2Fwww.usabilityreport.de%2Fpost%2F159821351802%2Fheuristiken&amp;m=1"
+                                target="_blank">Jakob Nielsen</a> ein. Anschlie&szlig;end lernen wir deren Gebrauch in der Bewertung von interaktiven Systemen.
+                        </p>
+                        <p class="read_more_container"><a href="http://www.usabilityreport.de/post/159821351802/heuristiken" class="read_more">Weiterlesen</a></p>
                     </div>
-                    {/block:Source} {/block:Quote} {block:Chat} {block:Title}
-                    <h2>{Title}</h2> {/block:Title}
-                    <ul class="chat">
-                        {block:Lines}
-                        <li>{block:Label}<strong>{Label}</strong>{/block:Label} {Line}</li>
-                        {/block:Lines}
-                    </ul>
-                    {/block:Chat}
 
                 </div>
-                {block:HasTags}
                 <ul class="tags">
-                    {block:Tags}
-                    <li><a href="{TagURL}">#{Tag}</a></li>
-                    {/block:Tags}
+                    <li><a href="http://www.usabilityreport.de/tagged/Auflistung">#Auflistung</a></li>
+                    <li><a href="http://www.usabilityreport.de/tagged/EinfachErkl%C3%A4rt">#EinfachErkl&auml;rt</a></li>
                 </ul>
-                {/block:HasTags}
-
                 <div class="seperator"></div>
-
             </div>
-            {/block:Posts} {block:TagPage}
-            <div class="posts">
-                <a href="http://www.usabilityreport.de/articles">Zurück zur Artikelübersicht</a><br>
-                <a href="http://www.usabilityreport.de">Zurück zur Startseite</a>
+            <div class="post" id="159680897662">
+                <div class="posts"></div>
+                <div class="header-posts">
+                    <h2><a href="http://www.usabilityreport.de/post/159680897662/qwerty">Macht uns QWERTY langsam und krank?</a></h2>
+                    <div class="text">
+                        <p>Hast du dich schon mal gefragt, warum unsere Tastaturen so aussehen, wie sie aussehen?</p>
+                        <p>Viele nehmen an, dass die Anordnung der Tasten f&uuml;r effizientes und angenehmes 10-Finger-Schreiben ausgelegt ist. Die Entwicklung trieben jedoch g&auml;nzlich andere Faktoren an. Diese f&uuml;hren laut Kritikern dazu, dass
+                            wir langsamer schreiben und uns eher verletzen.</p>
+                        <p>Den Hintergrund der Entwicklung von QWERTY, wie die Kritiker ihre Vorw&uuml;rfe begr&uuml;nden und ob sie damit Recht haben, erf&auml;hrst du in diesem Artikel.</p>
+                        <p class="read_more_container"><a href="http://www.usabilityreport.de/post/159680897662/qwerty" class="read_more">Weiterlesen</a></p>
+                    </div>
 
+                </div>
+                <ul class="tags">
+                    <li><a href="http://www.usabilityreport.de/tagged/Historie">#Historie</a></li>
+                </ul>
+                <div class="seperator"></div>
             </div>
-            {/block:TagPage}
+            <div class="post" id="158024722002">
+                <div class="posts"></div>
+                <div class="header-posts">
+                    <h2><a href="http://www.usabilityreport.de/post/158024722002/wireframe-mockup-prototyp">W&uuml;sstest du den Unterschied zwischen Wireframe, Mock-Up und Prototyp?</a></h2>
+                    <div class="text">
+                        <p>Sicherlich hast du die Begriffe schon mal geh&ouml;rt &ndash; und vielleicht wurden sie dabei sogar als Synonym oder im falschen Kontext verwendet. Da ich selber nicht wirklich sagen konnte, wann wir nun ein Mock-Up und wann einen
+                            Prototypen verwenden und was die beiden von einem Wireframe unterscheidet, habe ich mal etwas recherchiert. Herausgekommen ist dabei dieser Artikel.
+                        </p>
+                        <p class="read_more_container"><a href="http://www.usabilityreport.de/post/158024722002/wireframe-mockup-prototyp" class="read_more">Weiterlesen</a></p>
+                    </div>
+
+                </div>
+                <ul class="tags">
+                    <li><a href="http://www.usabilityreport.de/tagged/EinfachErkl%C3%A4rt">#EinfachErkl&auml;rt</a></li>
+                </ul>
+                <div class="seperator"></div>
+            </div>
         </div>
-
-        {block:Pagination}
         <div class="pagination">
             <ul class="clearfix">
-                {block:PreviousPage}
-                <li><a href="{PreviousPage}" id="newer">Newer</a></li>
-                {/block:PreviousPage} {block:JumpPagination length="10"} {block:CurrentPage}
-                <li><a href="{URL}" class="active">{PageNumber}</a></li>
-                {/block:CurrentPage} {block:JumpPage}
-                <li><a href="{URL}">{PageNumber}</a></li>
-                {/block:JumpPage} {/block:JumpPagination} {block:NextPage}
-                <li><a href="{NextPage}" id="older">Older</a></li>
-                {/block:NextPage}
+                <li><a href="" class="active">1</a></li>
+                <li><a href="/page/2">2</a></li>
+                <li><a href="/page/3">3</a></li>
+                <li><a href="/page/4">4</a></li>
+                <li><a href="/page/5">5</a></li>
+                <li><a href="/page/6">6</a></li>
+                <li><a href="/page/2" id="older">Older</a></li>
             </ul>
         </div>
-        {/block:Pagination}
-
-
-        <div class="footer">
-            <a href="http://www.usabilityreport.de/impressum">© {CopyrightYears}</a> | <a href="http://www.usabilityreport.de/contact">Kontakt</a> | <a href="http://www.usabilityreport.de/rss">RSS</a><br>
-
-
-
+        <div class="footer"><a href="http://www.usabilityreport.de/impressum">© 2015–2017</a> | <a href="http://www.usabilityreport.de/contact">Kontakt</a> | <a href="http://www.usabilityreport.de/rss">RSS</a><br>
             <div class="form">
                 <p>Lass dich automatisch über neue Artikel benachrichtigen!</p>
-
-
                 <form action="//usabilityreport.us15.list-manage.com/subscribe/post?u=b505ff4d23b667225e930d91e&amp;id=d1bd351cfb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
                     <div class="email-field" id="mc_embed_signup_scroll">
-
-
                         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b505ff4d23b667225e930d91e_d1bd351cfb" tabindex="-1" value=""></div>
-
-                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email-Adresse">
-                        <input type="submit" value="Beantragen" name="subscribe" id="mc-embedded-subscribe">
-
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b505ff4d23b667225e930d91e_d1bd351cfb" tabindex="-1" value=""></div><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email-Adresse"><input type="submit" value="Beantragen"
+                            name="subscribe" id="mc-embedded-subscribe">
                         <!-- Rückmeldung -->
                         <div id="mce-responses" class="clear">
                             <div class="response" id="mce-error-response" style="display:none"></div>
                             <div class="response" id="mce-success-response" style="display:none"></div>
                         </div>
-
-
-
                     </div>
-
                 </form>
             </div>
         </div>
     </div>
-
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="http://static.tumblr.com/t8k4hxe/WK1mslt6q/jquery.fitvids.js"></script>
     <script>
@@ -203,8 +207,6 @@
             customSelector: 'iframe'
         });
     </script>
-
-    {block:IndexPage}
     <script src="http://static.tumblr.com/pqftzxm/Utcnytumt/jquery.infinitescroll.min.js"></script>
     <script>
         ! function() {
@@ -227,13 +229,108 @@
                 })
             })
         }();
+    </script><iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe>
+    <script type="text/javascript">
+        (function() {
+            var analytics_frame = document.getElementById('ga_target');
+            var analytics_iframe_loaded;
+            var user_logged_in;
+            var blog_is_nsfw = 'No';
+            var addthis_enabled = false;
+
+            var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+            var eventer = window[eventMethod];
+            var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+            eventer(messageEvent, function(e) {
+                var message = (e.data && e.data.split) ? e.data.split(';') : '';
+                switch (message[0]) {
+                    case 'analytics_iframe_loaded':
+                        analytics_iframe_loaded = true;
+                        postCSMessage();
+                        postGAMessage();
+                        postATMessage();
+                        postRapidMessage();
+                        break;
+                    case 'user_logged_in':
+                        user_logged_in = message[1];
+                        postGAMessage();
+                        postATMessage();
+                        break;
+                }
+            }, false);
+
+            analytics_frame.src = "https://assets.tumblr.com/analytics.html?9a1be5ecf9cb534e907d1cab9efa117a#" +
+                "http://www.usabilityreport.de";
+
+            function postGAMessage() {
+                if (analytics_iframe_loaded && user_logged_in) {
+                    var is_ajax = false;
+                    analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+                }
+            }
+
+            function postCSMessage() {
+                COMSCORE = true;
+                analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+            }
+
+            function postATMessage() {
+                if (addthis_enabled && analytics_iframe_loaded) {
+                    analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+                }
+            }
+
+            function postRapidMessage() {
+                if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/';
+                    var tumblelog_id = '267543826';
+                    var yahoo_space_id = '1197719229';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+            }
+        })();
     </script>
-
-
-
-
-    {/block:IndexPage}
-
+    <script type="text/javascript">
+        ! function(s) {
+            s.src =
+                'https://px.srvcs.tumblr.com/impixu?T=1493404337&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvd3d3LnVzYWJpbGl0eXJlcG9ydC5kZVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyJ9&U=GOBEHMNEBE&K=2cc53b396a43da51bb893041ff07341b9f6f172f359feeb4d26b1078324d581b&R='
+                .replace(/&R=[^&$]*/, '').concat('&R=' + escape(document.referrer)).slice(0, 2000).replace(/%.?.?$/, '');
+        }(new Image());
+    </script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1493404337&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvd3d3LnVzYWJpbGl0eXJlcG9ydC5kZVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsIm5vc2NyaXB0IjoxfQ==&U=GOBEHMNEBE&K=497641aa9b5f06cce87bb93a0c353d06516f0f6a48f4a877f0c09c9f3615857f&R="></noscript>
+    <script>
+        (function(w, d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                    el.addEventListener(type, listener, !!useCapture) :
+                    el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function() {
+                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=a95b5ce756d322385d677d6378669123';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w, 'load', a);
+        }(window, document));
+    </script>
 </body>
 
 </html>

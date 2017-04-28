@@ -1,5 +1,4 @@
-# usabilityreport
+# Usability Report
 
-Der Code zu usabilityreport.de
-
-Da ich gerade noch viel am Lernen und Probieren bin, sollte ich vielleicht verschiedene Backups anlegen.
+## Wofür dieses Repository?
+Es dient zum Einen als Backup und Versionskontrolle. Außerdem denke ich über einen Umzug von Tumblr zu GitHub nach und bereite mich entsprechend darauf vor.

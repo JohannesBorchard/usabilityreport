@@ -4,3 +4,5 @@ baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge
 permalink: /posts/:day-:month-:year/:title/
+gems:
+  - octopress-minify-html

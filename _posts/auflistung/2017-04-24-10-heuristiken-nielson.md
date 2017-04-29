@@ -2,6 +2,7 @@
 layout: default
 title: Systeme bewerten ohne zu fluchen I: 10 Usability Heuristiken nach Nielsen [Deutsch]
 meta: nielson usability heuristics heuristiken
+category: auflistung
 ---
 # Systeme bewerten ohne zu fluchen I: 10 Usability Heuristiken nach Nielsen [Deutsch]
 

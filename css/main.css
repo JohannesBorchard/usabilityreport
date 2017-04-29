@@ -129,12 +129,12 @@ p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
     padding: 20px 0;
     margin: 0;
     text-align: center;
-    font-size: 12px;
+    font-size: 13px;
     text-transform: uppercase;
     font-weight: 700;
     border-top: 2px solid #F2F2F2;
     border-bottom: 2px solid #F2F2F2;
-    font-family: 'Montserrat', 'Helvetica Neue', "Arial", sans-serif;
+    font-family: 'Helvetica Neue', "Arial", sans-serif;
 }
 
 .nav li {
@@ -143,9 +143,12 @@ p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
 }
 
 .posts {
-    padding-top: 60px;
     margin: 0;
     max-width: 100%;
+}
+
+.posts li {
+    padding-top: 60px;
 }
 
 .posts ul {

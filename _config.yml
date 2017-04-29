@@ -1,4 +1,5 @@
 #markdown: redcarpet
+description: Auf Usability Report erscheinen wöchentlich Artikel mit Tipps und Informationen für angehende Usabilty & User Experience Experten.
 baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge

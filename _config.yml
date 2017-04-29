@@ -1,3 +1,4 @@
 markdown: redcarpet
+url: https://johannesborchard.github.io
 baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]

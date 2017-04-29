@@ -3,7 +3,8 @@ layout: default
 ---
 
 # Person
-    <img alt="profil" src="http://68.media.tumblr.com/f6353aa1e0386183511dc0b057393cfa/tumblr_inline_oit4ioIPfW1tupr4e_500.jpg">
+
+![Profilbild](http://68.media.tumblr.com/f6353aa1e0386183511dc0b057393cfa/tumblr_inline_oit4ioIPfW1tupr4e_500.jpg")
     _Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden._
 
     Seit Oktober 2016 studiere ich in Würzburg »Mensch-Computer-Systeme«. Wie kommt man auf sowas?

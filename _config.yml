@@ -1,4 +1,3 @@
 markdown: redcarpet
-
-baseurl: /usabilityreport
+baseurl: "/usabilityreport"
 exclude: ["README.md", "Tumblr"]

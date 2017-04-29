@@ -144,7 +144,17 @@ p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
 
 .posts {
     padding-top: 60px;
+    margin: 0;
     max-width: 100%;
+}
+
+.posts ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.posts img {
+    width: 100%;
 }
 
 .text {
@@ -156,14 +166,6 @@ iframe {
     max-width: 100%;
 }
 
-.tumblr_video_container {
-    width: 100% !important;
-    height: 100% !important;
-}
-
-.header-posts {
-    padding: 0;
-}
 
 .seperator {
     display: block;
@@ -244,9 +246,7 @@ img {
     height: auto;
 }
 
-.posts img {
-    width: 100%;
-}
+
 
 .profile {
     float: right;

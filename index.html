@@ -1,16 +1,20 @@
 ---
 layout: default
 ---
+<div class="posts">
+    <ul>
+        {% for post in site.posts limit:5 %}
 
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <a href="">{{post.title}}</a>
-        <p>{{post.meta}}</p>
-    </li>
-    {% endfor %}
-</ul>
+        <li>
+            <h2><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h2>
+            <div class="text">{{ post.excerpt }}</div>
+            <p><a href="{{site.baseurl}}{{post.url}}">Weiterlesen</a></p>
+            <div class="seperator"></div>
+        </li>
 
+        {% endfor %}
+    </ul>
+</div>
 <div class="autopagerize_page_element">
     <div class="post" id="159821351802">
         <div class="posts"></div>

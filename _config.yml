@@ -1,3 +1,4 @@
-markdown: redcarpet
+#markdown: redcarpet
 baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
+highlighter: rouge

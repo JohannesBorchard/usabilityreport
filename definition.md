@@ -15,10 +15,10 @@ Zunächst einmal muss gegeben sein, dass das Produkt überhaupt für seinen Eins
 
 **Usability** ist in diesem Fall das Schlagwort, welches sich in »Gebrauchstauglichkeit« (danke, Deutsch) übersetzen ließe. Der Nutzen lässt sich leicht messen, doch wie sieht das bei Usability aus? Von _Nielson_und_Landauer_ stammen dafür der Katalog aus folgenden fünf Elementen:
 
-- **Effektivität: **Es lässt sich erledigen, was man damit erledigen möchte. 
+- **Effektivität:** Es lässt sich erledigen, was man damit erledigen möchte. 
 - **Effizienz:** Die Benutzung ist in einem angemessenem Aufwand möglich. 
 - **Lernbarkeit & Einprägsamkeit:** Die Bedienung lässt sich einfach lernen/erinnern. 
-- **Sicherheit: **Es entstehen keine Gefahren/Schäden bei der Benutzung. 
+- **Sicherheit:** Es entstehen keine Gefahren/Schäden bei der Benutzung. 
 - **Zufriedenheit:** Die Bedienung ist angenehm. 
 
 **User Experience** geht noch einen Schritt weiter und umfasst die gesamtheitlichen Erfahrungen, sowie insbesondere die Zufriedenheit des Users.

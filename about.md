@@ -6,7 +6,6 @@ layout: default
 
 ![Profilbild](http://68.media.tumblr.com/f6353aa1e0386183511dc0b057393cfa/tumblr_inline_oit4ioIPfW1tupr4e_500.jpg")
     _Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden._
-
     Seit Oktober 2016 studiere ich in Würzburg »Mensch-Computer-Systeme«. Wie kommt man auf sowas?
 
     Nach dem Abitur 2015 habe ich mich für ein Jahr [als Weltwärts-Freiwilliger in die Dominikanische Republik](http://impacto-cultural.tumblr.com/) begeben und mich dort bei einem Kaffeeverband intensiv mit PR und Webdesign beschäftigt.

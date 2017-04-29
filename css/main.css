@@ -8,6 +8,8 @@ body {
     font-family: 'Helvetica Neue', "Arial", sans-serif;
     font-size: 15px;
     line-height: 1.6em;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }
 
 h1, h2, h3, h4, h5 {
@@ -142,28 +144,25 @@ p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
     display: inline-block;
 }
 
-.posts {
-    margin: 0;
-    max-width: 100%;
-}
-
-.posts li {
-    padding-top: 60px;
-}
-
-.posts ul {
+.post-list ul {
     padding-left: 0;
     list-style: none;
+}
+
+.post {
+    margin: 0;
+    max-width: 100%;
+    padding-top: 60px;
 }
 
 .posts img {
     width: 100%;
 }
 
-.text {
+/*.text {
     overflow-wrap: break-word;
     word-wrap: break-word;
-}
+}*/
 
 iframe {
     max-width: 100%;

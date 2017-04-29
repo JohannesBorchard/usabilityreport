@@ -4,7 +4,7 @@ title: 10 Usability Heuristiken nach Nielsen [Deutsch] - Systeme bewerten ohne z
 excerpt_separator: <!--more-->
 category: Auflistung
 ---
-Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen uns einige Wörter durch den Kopf… Doch wenn wir die konkreten Probleme lösen möchten, helfen uns subjektive Eindrücke wenig.
+Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen uns einige Adjektive durch den Kopf… Doch wenn wir die konkreten Probleme lösen möchten, helfen uns subjektive Eindrücke wenig.
 
 Die Methode der _Heuristischen Evaluation_ erlaubt uns, mit wenig Zeit und Aufwand annähernd objektive Aussagen über die Benutzerfreundlichkeit eines Systems zu treffen.
 

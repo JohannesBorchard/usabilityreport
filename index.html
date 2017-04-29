@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
-<div class="posts">
+<div class="post-list">
     <ul>
         {% for post in site.posts limit:5 %}
-
-        <li>
-            <h2><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h2>
-            <div class="text">{{ post.excerpt }}</div>
-            <p><a href="{{site.baseurl}}{{post.url}}">Weiterlesen</a></p>
-            <div class="seperator"></div>
-        </li>
+        <div class="post">
+            <li>
+                <h2><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h2>
+                <div class="text">{{ post.excerpt }}</div>
+                <p><a href="{{site.baseurl}}{{post.url}}">Weiterlesen</a></p>
+                <div class="seperator"></div>
+            </li>
+        </div>
 
         {% endfor %}
     </ul>

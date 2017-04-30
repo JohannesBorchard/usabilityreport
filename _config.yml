@@ -4,5 +4,6 @@ baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge
 permalink: /posts/:day-:month-:year/:title/
-gems:
-  - octopress-minify-html
+gems: [jekyll-paginate]
+paginate: 5
+# paginate_path: "/blog/page:num/"

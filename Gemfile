@@ -1,6 +1,10 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-gem 'jekyll-compose', group: [:jekyll_plugins]
+group :jekyll_plugins do
+   gem "jekyll-compose"
+   gem "jekyll-paginate"
+ end
+
 
 # gem "rails"

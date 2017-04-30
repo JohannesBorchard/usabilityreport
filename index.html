@@ -1,18 +1,30 @@
 ---
 layout: default
 ---
-<div class="post-list">
-    <ul>
-        {% for post in site.posts limit:5 %}
-        <div class="post">
-            <li>
-                <h2><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h2>
-                <div class="text">{{ post.excerpt }}</div>
-                <p><a href="{{site.baseurl}}{{post.url}}">Weiterlesen</a></p>
-                <div class="seperator"></div>
-            </li>
-        </div>
 
-        {% endfor %}
-    </ul>
+<div class="post-list">
+  <ul>
+    {% for post in paginator.posts %}
+    <div class="post">
+      <li>
+        <h2><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h2>
+        <div class="text">{{ post.excerpt }}</div>
+        <p><a href="{{site.baseurl}}{{post.url}}">Weiterlesen</a></p>
+        <div class="seperator"></div>
+      </li>
+    </div>
+    {% endfor %}
+  </ul>
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %} {% if paginator.page == 2 %}
+  <a href="{{ site.baseurl }}/">Zurück</a> {% else %}
+  <a href="{{ site.baseurl }}/page{{ paginator.previous_page }}/">Zurück</a> {% endif %} {% else %}
+  <span>Zurück</span> {% endif %} {% if paginator.next_page %}
+  <a class='next' href="{{ site.baseurl }}/page{{ paginator.next_page }}/">Weiter</a> {% else %}
+  <span class='next'>Weiter</span> {% endif %}
+</div>
+{% endif %}
 </div>

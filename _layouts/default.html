@@ -4,6 +4,122 @@
 
 {% include head.html %}
 
+<style media="screen">
+---
+---
+
+html {
+  background-color: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  color: #333333;
+  font-family: 'Helvetica Neue', "Arial", sans-serif;
+  font-size: 15px;
+  line-height: 1.6em;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  max-width: 500px !important;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Helvetica Neue', "Arial", sans-serif;
+  font-weight: 400;
+}
+
+
+/* Desktop */
+@media only screen and (min-width: 401px) {
+  h1 {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  h3 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+}
+
+/* Mobile */
+@media only screen and (max-width: 400px) {
+  h1, h2 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  h3 {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
+
+a:link, a:visited {
+  color: #e17e66;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0 #aaa solid;
+  border-top-width: 1px;
+  clear: both;
+  height: 0;
+}
+
+ol {
+  list-style: decimal;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 0px;
+}
+
+li {
+  margin-left: 0px;
+}
+
+p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
+  margin: 0 0 15px 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+{% include header.css %}
+
+{% include post.css %}
+
+{% include footer.css %}
+
+/*{% include pagination.css %}*/
+
+/*#profile-picture {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  width: 30%;
+}*/
+
+.pagination {
+  text-align: center;
+  font-size: 16px;
+}
+
+</style>
+
 <body>
 
     {% include header.html %} {{content}} {% include footer.html %}

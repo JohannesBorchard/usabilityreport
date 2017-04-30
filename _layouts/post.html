@@ -2,79 +2,15 @@
 
 <html lang="de">
 
-<head>
-
-    <title>{{page.title}}</title>
-    <meta name="description" content="{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}">
-    <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-
-    <meta charset="UTF-8">
-    <meta name="google-site-verification" content="wvpMOLeiU128cCF6oaDe_SXEUQMzafbP2kPmgqkF2Sw">
-    <meta name="viewport" content="width=device-width">
-
-
-
-</head>
+{% include head_permalink.html %}
 
 <body>
 
-    <div class="wrapper">
+  <div class="wrapper">
 
-        <div class="header">
-            <div class="title">
-                <h1><a href="{{site.baseurl}}/">Usability Report</a></h1>
-            </div>
-            <ul class="nav">
+    {% include header.html %} {% include post.html %} {% include footer.html %}
 
-                <li><a href="{{site.baseurl}}/definition">Usability & UX</a></li>
-                <li><a href="{{site.baseurl}}/about">Person</a></li>
-                <li><a href="{{site.baseurl}}/manifesto">Manifest</a></li>
-                <li><a href="{{site.baseurl}}/articles">Artikel</a></li>
-
-            </ul>
-        </div>
-
-        <div class="post">
-            <h1>{{page.title}}</h1>
-            <div class="text">
-                {{content}}
-            </div>
-        </div>
-
-        <div class="footer">
-            <a href="http://www.usabilityreport.de/impressum">© 2015 - 2017</a> | <a href="http://www.usabilityreport.de/contact">Kontakt</a> | <a href="http://www.usabilityreport.de/rss">RSS</a><br>
-
-
-
-            <div class="form">
-                <p>Lass dich automatisch über neue Artikel benachrichtigen!</p>
-
-
-                <form action="//usabilityreport.us15.list-manage.com/subscribe/post?u=b505ff4d23b667225e930d91e&amp;id=d1bd351cfb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-                    <div class="email-field" id="mc_embed_signup_scroll">
-
-
-                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b505ff4d23b667225e930d91e_d1bd351cfb" tabindex="-1" value=""></div>
-
-                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email-Adresse">
-                        <input type="submit" value="Beantragen" name="subscribe" id="mc-embedded-subscribe">
-
-                        <!-- Rückmeldung -->
-                        <div id="mce-responses" class="clear">
-                            <div class="response" id="mce-error-response" style="display:none"></div>
-                            <div class="response" id="mce-success-response" style="display:none"></div>
-                        </div>
-
-
-
-                    </div>
-
-                </form>
-            </div>
-        </div>
-    </div>
+  </div>
 
 </body>
 

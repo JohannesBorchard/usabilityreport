@@ -1,0 +1,62 @@
+.post-list ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.post {
+  margin: 0;
+  max-width: 100%;
+  padding-top: 60px;
+}
+
+.post p {
+  font-family: 'Courier New', "Garamdond", serif;
+}
+
+.quote {
+  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  letter-spacing: -1px;
+  line-height: 1.2em;
+  padding-bottom: 10px;
+}
+
+blockquote {
+  margin-left: 20px;
+  padding-left: 15px;
+  border-left: 3px #333333 solid;
+}
+
+/*.date {
+  margin-right: 20px;
+}
+
+.tags {
+  display: block;
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.tags a {
+  color: #CCCCCC;
+}
+
+.tags ul {
+  list-style-type: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.tags li {
+  margin: 0;
+  padding-right: 10px;
+  display: inline;
+}*/
+
+.seperator {
+  display: block;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #F2F2F2;
+}

@@ -1,0 +1,42 @@
+#infscr-loading, .pagination {
+  display: none !important;
+}
+
+.pagination {
+  text-align: center;
+  font-weight: 700;
+  border-bottom: 2px solid #F2F2F2;
+}
+
+.pagination ul {
+  list-style: none;
+  padding: 10px 15px;
+  margin: 10px 0;
+}
+
+.pagination li {
+  margin: 0 2px 0 2px;
+  display: inline;
+}
+
+#pagination a:link, #pageNav a:visited {
+  padding: 0;
+  margin: 0 2px;
+  text-decoration: none;
+}
+
+#pagination a:hover, #pageNav a:active, #pageNav a.active:link, #pageNav a.active:visited {
+  text-decoration: underline;
+}
+
+#older:after {
+  content: " Â»";
+}
+
+#newer:before {
+  content: "Â« ";
+}
+
+.datenotes {
+  float: left;
+}

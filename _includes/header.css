@@ -1,0 +1,36 @@
+.header {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Helvetica Neue', "Arial", sans-serif;
+}
+
+.title {
+  /*letter-spacing: 5px;*/
+  margin: 50px 0;
+  
+}
+
+.title a {
+  color: #333333;
+  font-size: 25px;
+  font-weight: 500;
+
+  /*font-weight: 400;*/
+}
+
+.nav {
+  list-style: none;
+  padding: 20px 0;
+  margin: 0;
+
+  font-size: 13px;
+
+  font-weight: 700;
+  border-top: 2px solid #F2F2F2;
+  border-bottom: 2px solid #F2F2F2;
+}
+
+.nav li {
+  margin: 0 20px;
+  display: inline-block;
+}

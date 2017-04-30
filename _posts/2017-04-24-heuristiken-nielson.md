@@ -53,8 +53,6 @@ Obwohl es besser ist, wenn der Nutzer ein System ohne Hilfe benutzten kann, ist 
 
 [![Error on Windows](https://68.media.tumblr.com/c077e926808a04e6d633f18908bcace8/tumblr_inline_oor7t93b4o1tupr4e_540.png)](https://www.medo64.com/2013/03/error-the-operation-completed-successfully/)
 
-_[Fehlermeldung](https://www.medo64.com/2013/03/error-the-operation-completed-successfully/)_
-
 Anhand des [Artikels](https://www.nngroup.com/articles/ten-usability-heuristics/) von Jakob Nielsen habe ich die Punkte frei übersetzt, um deren Inhalt in möglichst präziser und einfacher Sprache wiedergeben zu können.
 
 Im zweiten Teil dieser Artikelserie lernst du, wie wir Systeme mit Hilfe dieser Heuristiken möglichst objektiv bewerten.

@@ -3,14 +3,12 @@ layout: post
 title: 10 Usability Heuristiken nach Nielsen [Deutsch] - Systeme bewerten ohne zu fluchen
 excerpt_separator: <!--more-->
 category: Auflistung
-
 ---
 Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen uns einige Adjektive durch den Kopf… Doch wenn wir die konkreten Probleme lösen möchten, helfen uns subjektive Eindrücke wenig.
 
 Die Methode der _Heuristischen Evaluation_ erlaubt uns, mit wenig Zeit und Aufwand annähernd objektive Aussagen über die Benutzerfreundlichkeit eines Systems zu treffen.
 
-Diese Artikelserie erklärt zunächst den Begriff und führt die _10 Heuristiken_ von [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/) ein. Anschließend lernen wir deren Gebrauch in der Bewertung von interaktiven Systemen.
-[[MORE]]
+Diese Artikelserie erklärt zunächst den Begriff und führt die _10 Heuristiken_ von [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/) ein. Anschließend lernen wir deren Gebrauch in der Bewertung von interaktiven Systemen.<!--more-->
 
 ## Bedeutung
 

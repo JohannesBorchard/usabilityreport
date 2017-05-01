@@ -14,5 +14,8 @@ ExpiresDefault "access plus 2 days"
 </IfModule>
 ## EXPIRES CACHING ##
 
+# www canonicalization
+RewriteEngine On
+RewriteBase /
 RewriteCond %{HTTP_HOST} ^151\.101\.0\.133
 RewriteRule (.*) http://www.usabilityreport.de/$1 [R=301,L]

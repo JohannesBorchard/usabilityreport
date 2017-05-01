@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Usability Heuristiken nach Nielson [Deutsch] - Systeme bewerten ohne zu fluchen
+title: 10 Usability Heuristiken nach Nielsen [Deutsch] - Systeme bewerten ohne zu fluchen
 excerpt_separator: <!--more-->
 category: Auflistung
 
@@ -24,19 +24,19 @@ Wie lauten also die Faustregeln der Usability?
 
 1.  **Sichtbarkeit des Systemstatus**  
 Das System informiert den Nutzer immer darüber, was gerade passiert – rechtzeitig und durch angemessenes Feedback.
-    
+
 2.  **Übereinstimmung von System und Wirklichkeit**  
 Das System spricht die Sprache des Nutzers – mit ihm vertrauten Wörtern, Phrasen und Konzepten. Entlehnt aus der echten Welt erscheinen Informationen in ihrer natürlichen und logischen Ordnung.
-    
+
 3.  **Nutzerkontrolle und Freiheit**  
 Nutzer führen Aktionen oft unbeabsichtigt durch. Auswege wie „Rückgängig“, „Wiederholen“ und „ESC“ sind deshalb immer möglich und sichtbar.
-    
+
 4.  **Beständigkeit und Standards**  
 Nutzer müssen nicht überlegen, ob unterschiedliche Wörter, Situationen und Aktionen das Gleiche meinen. Die Konventionen des Betriebssystems werden eingehalten.
-    
+
 5.  **Fehlervermeidung**  
 Besser als jede gute Fehlermeldung ist ein sorgfältiges Design, welches Fehler gar nicht erst auftreten lässt. Das System vermeidet fehleranfällige Situationen oder warnt den Nutzer und lässt ihn die Aktion bestätigen.
-    
+
 6.  **Wiedererkennung statt Erinnerung**  
 Durch sichtbare Objekte, Aktionen und Optionen muss der Nutzer weniger im Gedächtnis behalten. Anleitungen zum Gebrauch des Systems sind sichtbar oder leicht zu erreichen.
 

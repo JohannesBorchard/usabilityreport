@@ -1,9 +1,10 @@
 markdown: kramdown
-description: Auf Usability Report erscheinen wöchentlich Artikel mit Tipps und Informationen für angehende Usabilty & User Experience Experten.
 baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge
 permalink: /posts/:day-:month-:year/:title/
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
 paginate: 5
-# paginate_path: "/blog/page:num/"

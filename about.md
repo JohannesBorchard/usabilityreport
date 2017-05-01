@@ -3,7 +3,9 @@ layout: post
 title: Person
 ---
 
-<!-- ![Profilbild]("") -->
+<!-- ![Profilbild]({{site.baseurl}}/assets/profile-bw.jpg) -->
+<img src="{{site.baseurl}}/assets/profile-bw.jpg" alt="Profilbild" id="profile-picture">
+
 
 _Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden._
 Seit Oktober 2016 studiere ich in Würzburg »Mensch-Computer-Systeme«. Wie kommt man auf sowas?

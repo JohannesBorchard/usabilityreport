@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Usability Heuristiken nach Nielsen [Deutsch] - Systeme bewerten ohne zu fluchen
+title: 10 Usability Heuristiken nach Nielson [Deutsch] - Systeme bewerten ohne zu fluchen
 excerpt_separator: <!--more-->
 category: Auflistung
 ---
@@ -8,14 +8,14 @@ Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen u
 
 Die Methode der _Heuristischen Evaluation_ erlaubt uns, mit wenig Zeit und Aufwand annähernd objektive Aussagen über die Benutzerfreundlichkeit eines Systems zu treffen.
 
-Diese Artikelserie erklärt zunächst den Begriff und führt die _10 Heuristiken_ von [Jakob Nielsen](https://www.nngroup.com/people/jakob-nielsen/) ein. Anschließend lernen wir deren Gebrauch in der Bewertung von interaktiven Systemen.
+Diese Artikelserie erklärt zunächst den Begriff und führt die _10 Heuristiken_ von Jakob Nielson ein. Anschließend lernen wir deren Gebrauch in der Bewertung von interaktiven Systemen.
 <!--more-->
 
 ## Bedeutung
 
 [Heuristik](https://de.wikipedia.org/wiki/Heuristik) kommt vom altgriechischen εὑρίσκειν (heurískein) was so viel bedeutet wie „auffinden“ oder „entdecken“. In der Verhaltenspsychologie meint die Heuristik eine [Vorgehensweise](https://www.verywell.com/what-is-a-heuristic-2795235), mit der wir trotz unvollständigen Wissens und begrenzter Zeit Aussagen und Entscheidungen treffen können. _Versuch und Irrtum_ oder das _Ausschlussverfahren_ sind prominente Beispiele, die wir täglich benutzen. Umgangssprachlich kommt die _Faustregel_ der Bedeutung am nächsten.
 
-Jakob Nielsen entwickelte 1995 diese zehn allgemeinen Prinzipien für gutes _Interaktionsdesign_. Laut eigener Aussage verwendet er den Begriff Heuristiken, da es sich um „breite Faustregeln und nicht um spezielle _Usability Richtlinien_“ handelt.
+[Jakob Nielson](https://www.nngroup.com/people/jakob-Nielson/) entwickelte 1995 diese zehn allgemeinen Prinzipien für gutes _Interaktionsdesign_. Laut eigener Aussage verwendet er den Begriff Heuristiken, da es sich um „breite Faustregeln und nicht um spezielle _Usability Richtlinien_“ handelt.
 
 Wie lauten also die Faustregeln der Usability?
 
@@ -53,7 +53,7 @@ Obwohl es besser ist, wenn der Nutzer ein System ohne Hilfe benutzten kann, ist 
 
 [![Error on Windows](https://68.media.tumblr.com/c077e926808a04e6d633f18908bcace8/tumblr_inline_oor7t93b4o1tupr4e_540.png)](https://www.medo64.com/2013/03/error-the-operation-completed-successfully/)
 
-Anhand des [Artikels](https://www.nngroup.com/articles/ten-usability-heuristics/) von Jakob Nielsen habe ich die Punkte frei übersetzt, um deren Inhalt in möglichst präziser und einfacher Sprache wiedergeben zu können.
+Anhand des [Artikels](https://www.nngroup.com/articles/ten-usability-heuristics/) von Jakob Nielson habe ich die Punkte frei übersetzt, um deren Inhalt in möglichst präziser und einfacher Sprache wiedergeben zu können.
 
 Im zweiten Teil dieser Artikelserie lernst du, wie wir Systeme mit Hilfe dieser Heuristiken möglichst objektiv bewerten.
 

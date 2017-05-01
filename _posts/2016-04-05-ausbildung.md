@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Halloo Wie steige ich in Usability & User Experience ein? [Deutschland]
+title: Wie steige ich in Usability & User Experience ein? [Deutschland]
 date: '2016-04-05T00:00:00+02:00'
 tags:
 - Ratgeber

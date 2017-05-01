@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Wie steige ich in Usability & User Experience ein? [Deutschland]
+title: Halloo Wie steige ich in Usability & User Experience ein? [Deutschland]
 date: '2016-04-05T00:00:00+02:00'
 tags:
 - Ratgeber
 tumblr_url: http://www.usabilityreport.de/post/144502974927/ausbildung
 excerpt_separator: <!--more-->
 ---
-Das&nbsp;[Konzept der _Usability_](http://www.usabilityreport.de/about) gibt es auch in Deutschland schon eine Weile – wenn auch noch nicht im Mainstream angekommen._ [User Experience](http://www.usabilityreport.de/about) _ist
+Das Konzept der _Usability_ gibt es auch in Deutschland schon eine Weile – wenn auch noch nicht im Mainstream angekommen. _User Experience_ ist
  dafür gerade erst im Aufblühen – selbst in den U.S.A. gibt es bisher
 noch kaum einheitliche Termini und jeder sucht sich eben seinen Weg in
 das Feld. Quereinstiege sind hier sehr üblich – UX-Professionals kommen

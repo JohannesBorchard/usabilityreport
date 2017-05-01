@@ -2,26 +2,35 @@
 layout: post
 title: Manifest
 permalink: /manifesto
+description: Ich bin davon überzeugt, dass Technik für den Menschen da sein sollte und das auch leisten kann. Du auch?
 ---
 
-Hast du schon mal etwas vor Wut (fast) gegen die Wand geworfen, weil es die _eine Aufgabe_, für die es da ist einfach nicht hinbekommt?
+»Technik macht nie, was sie soll. Sie entfremdet und spaltet uns. Sie frisst unsere Zeit. Sie nimmt uns die Arbeit weg. Sie dringt in unser Privatleben ein. Sie wird uns in Zukunft zu Sklaven machen.«
 
-_Das_ ist _schlechte User Experience._
+Bei dem, was man so liest und hört, verfängt man sich leicht in dystopischen Endzeitvisionen. Man stemmt sich im Sinne der Maschinenstürmer »gegen den Fortschritt« und sucht in digitaler Abstinenz den heiligen Gral im Reaktionsmus.
 
-Solche Erfahrungen können wir mit haptischen Produkten oder etwa mit Webseiten und Software machen. Die Erfahrung im Umgang mit Produkten kann aber auch sehr positiv sein und Freude bereiten.
+»Wenn doch alles nur ein bisschen wie früher wär’…«
 
-Denke etwa an deine Lieblings-App/-Website/…
+Solche Phänomene entstehen nicht nur von selbst (auch, wenn schon bei der Erfindung des Buches das Ende der menschlichen Rasse prophezeit wurde) denn die Technik ist ebenfalls an ihrem Image schuld.
 
-Zunächst einmal muss gegeben sein, dass das Produkt überhaupt für seinen Einsatzzweck geeignet (**Utility** = Nutzen) und zudem in einfacher Weise bedienbar ist.
+Wie viele schlechte Produkte haben wir schon besessen? Geräte, die Wut auslösen, Webseiten und Programme, die einem nicht erlauben, einfachste Aufgaben zu erledigen – und oft ist man auch noch täglich gezwungen, diese zu benutzen!
 
-**Usability** ist in diesem Fall das Schlagwort, welches sich in »Gebrauchstauglichkeit« (danke, Deutsch) übersetzen ließe. Der Nutzen lässt sich leicht messen, doch wie sieht das bei Usability aus? Von _Nielson_und_Landauer_ stammen dafür der Katalog aus folgenden fünf Elementen:
+**Das sollte nicht so sein – doch muss es das denn?**
 
-- **Effektivität: **Es lässt sich erledigen, was man damit erledigen möchte.
-- **Effizienz:** Die Benutzung ist in einem angemessenem Aufwand möglich.
-- **Lernbarkeit & Einprägsamkeit:** Die Bedienung lässt sich einfach lernen/erinnern.
-- **Sicherheit: **Es entstehen keine Gefahren/Schäden bei der Benutzung.
-- **Zufriedenheit:** Die Bedienung ist angenehm.
+Ein Paradigmenwechsel bahnt sich an, bei dem der Fokus auf den Nutzer – also den Menschen, für den das Produkt entwickelt wurde – gelegt wird (Du kannst die Mistgabel also wieder weglegen).
 
-**User Experience** geht noch einen Schritt weiter und umfasst die gesamtheitlichen Erfahrungen, sowie insbesondere die Zufriedenheit des Users.
+Unter Begriffen wie _Usability_, _User Experience_ und _User Centered Design_ verbirgt sich ein Denken, das die Funktion von Produkten hinterfragt und solche schaffen möchte, die dem Menschen dienen und nicht andersherum.
 
-Methoden wie das _User Centered Design_ helfen dabei, den Nutzer – und damit den Menschen – an jeder Stelle des Entwicklungs-/Optimierungprozesses zu berücksichtigen, um sowohl Usability als auch User Experience in bestmöglicher Weise zu beeinflussen. 
+Die eigentliche Aufgabe der Technik sollte es doch sein,
+
+*   den Menschen von schweren Aufgaben zu entlasten,
+*   ihm bei der Lösung von Problemen zu helfen
+*   und sein Leben ein wenig leichter zu gestalten.
+
+Neben ihrer Sinnhaftigkeit sollte sie aber auch gut bedienbar sein und nach Möglichkeit Freude bereiten. Es gibt schon heute schöne – wenn auch erst wenige – Beispiele für _gute User Experience_: Denken wir dabei an unsere Liebslings-Apps, -Seiten und -Geräte oder an jene, deren Bedienung wir schon gar nicht mehr als solche wahrnehmen.
+
+Ich bin davon überzeugt, dass Technik _für_ den Menschen da sein sollte und das auch leisten kann. Du auch?
+
+Lasst uns gemeinsam an dieser Vision arbeiten und selbst unsere Zukunft gestalten!
+
+_Erfahre mehr auf [usabilityreport.de](http://www.usabilityreport.de/)_

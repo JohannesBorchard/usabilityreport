@@ -2,7 +2,7 @@
 layout: post
 title: Artikel
 permalink: /articles
-
+description: Entdecke Artikel aus verschiednen Themenbereichen auf Usability Report
 ---
 
 

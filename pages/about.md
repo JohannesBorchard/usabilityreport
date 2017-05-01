@@ -2,6 +2,7 @@
 layout: post
 title: Person
 permalink: /about
+description: Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden.
 ---
 
 <!-- ![Profilbild]({{site.baseurl}}/assets/profile-bw.jpg) -->

@@ -1,7 +1,7 @@
 <head>
 
   <title>{{page.title}}</title>
-  <meta name="description" content="{{page.excerpt | strip_html}}">
+  <meta name="description"{% if page.description %}content="{{ page.description }}"{% else %} content="{{page.excerpt | strip_html}}"{% endif %}>
   <link rel="stylesheet" href="/css/styles.css">
   <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | prepend: site.baseurl }}" >
 

@@ -2,6 +2,7 @@
 layout: post
 title: Kontakt
 permalink: /contact
+description: Über die hier angegebenen Kanäle bin ich erreichbar.
 ---
 
 Finde mich bei…

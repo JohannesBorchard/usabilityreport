@@ -4,7 +4,7 @@ title: Wie alles anfing...
 date: '2015-12-30T11:20:33+01:00'
 tags:
 - persönliches
-tumblr_url: http://www.usabilityreport.de/post/159673479597/wie-alles-anfing
+permalink: /anfang
 excerpt_separator: <!--more-->
 ---
 Als es auf der Arbeit mal wieder nichts zu tun gab, habe ich mich ein wenig auf dem [Blog von elementary OS](http://blog.elementary.io/) umgeschaut. Weil es wirklich nichts zu tun gab, habe ich mir sogar ein den Mitschnitt eines knapp [45-minütigen Vortrags](http://blog.elementary.io/post/133806307061/cassidy-james-recently-met-up-with-some-folks-from) mit schlechter Tonqualität angesehen, dessen Titel mir absolut nichtssagend vorkam. _Ja, ich hatte wirklich nichts zu tun._ Als ich dann auf _Play_ klickte, war ich plötzlich wie gefesselt. An einer besonders charismatischen Präsentation, wilden Effekten oder beeinflussender Hintergrundmusik kann es nicht gelegen haben.

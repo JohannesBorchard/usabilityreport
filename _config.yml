@@ -2,9 +2,9 @@ markdown: kramdown
 baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge
-permalink: /posts/:day-:month-:year/:title/
 gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
 paginate: 5
+permalink: /:title

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Impressum und Disclaimer
+permalink: /impressum
 ---
 
 ## Impressum

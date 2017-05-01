@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kontakt
+permalink: /contact
 ---
 
 Finde mich bei…

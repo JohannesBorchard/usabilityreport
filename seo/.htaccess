@@ -1,3 +1,6 @@
+---
+permalink: /
+---
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>
 ExpiresActive On

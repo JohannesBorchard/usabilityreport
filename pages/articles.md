@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Artikel
+permalink: /articles
+
 ---
 
 

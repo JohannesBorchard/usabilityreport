@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Person
+permalink: /about
 ---
 
 <!-- ![Profilbild]({{site.baseurl}}/assets/profile-bw.jpg) -->

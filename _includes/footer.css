@@ -72,3 +72,8 @@ input {
   -moz-appearance: none;
   appearance: none;
 }
+
+#bear-trap {
+  position: absolute;
+  left: -5000px;
+}

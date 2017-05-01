@@ -6,10 +6,10 @@ title: Impressum und Disclaimer
 ## Impressum
 
 ### Angaben gemäß § 5 TMG:
-
-Johannes Borchard  
-Elsa-Brandström-Straße 6  
-97218 Gerbrunn
+<div itemscope itemtype="http://schema.org/Person">
+<span itemprop="givenName">Johannes</span> <span itemprop="familyName">Borchard</span>
+<span itemprop="adress">Elsa-Brandström-Straße 6  
+97218 Gerbrunn</span>
 
 ### Kontakt:
 
@@ -21,7 +21,7 @@ Elsa-Brandström-Straße 6
 
 <td>Telefon:</td>
 
-<td>01624995243</td>
+<td itemprop="telephone">01624995243</td>
 
 </tr>
 
@@ -29,14 +29,14 @@ Elsa-Brandström-Straße 6
 
 <td>E-Mail:</td>
 
-<td>johannesborchard@gmail.com</td>
+<td itemprop="email">johannesborchard@gmail.com</td>
 
 </tr>
 
 </tbody>
 
 </table>
-
+</div>
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Johannes Borchard  

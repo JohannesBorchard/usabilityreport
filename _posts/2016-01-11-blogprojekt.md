@@ -1,9 +1,7 @@
 ---
 layout: post
 title: 'Projekt: User Experience Design Blog'
-date: '2016-01-11T12:45:52+01:00'
 category: Persönlich
-tumblr_url: http://www.usabilityreport.de/post/137097612597/blogprojekt
 excerpt_separator: <!--more-->
 ---
 

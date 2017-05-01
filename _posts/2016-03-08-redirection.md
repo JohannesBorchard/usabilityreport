@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Usability & User Experience Consultant
-date: '2016-03-08T13:19:15+01:00'
-category: Persönlich
-tumblr_url: http://www.usabilityreport.de/post/140696736677/redirection
+category: [Persönlich, Einfach erklärt]
 excerpt_separator: <!--more-->
 ---
 Wie es die neue Domain [usabilityreport.de](http://www.usabilityreport.de/) und weitere [kleine Veränderungen](http://www.usabilityreport.de/about) schon erahnen ließen, hat sich diese Homepage – und damit auch meine Ausrichtung – einer kleinen Kursänderung unterzogen.
@@ -25,4 +23,4 @@ Ersteres kümmert sich in etwa um den bestmöglichen Gebrauch eines Produktes un
 
 ![image](https://68.media.tumblr.com/eaec8e3ceffc4ae8167b6f3bfaa9515a/tumblr_inline_o3qe9uQTre1tupr4e_540.jpg)
 
-Das UX-horse soll den Bezug von _Usability_ und_ UX_ veranschaulichen:
+Das UX-horse soll den Bezug von _Usability_ und _UX_ veranschaulichen:

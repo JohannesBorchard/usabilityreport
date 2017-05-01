@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Wüsstest du den Unterschied zwischen Wireframe, Mock-Up und Prototyp?
-date: '2017-03-05T09:42:21+01:00'
 category: Einfach erklärt
 ---
 Sicherlich hast du die Begriffe schon mal gehört – und vielleicht wurden sie dabei sogar als Synonym oder im falschen Kontext verwendet.

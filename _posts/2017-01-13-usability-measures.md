@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Wie misst man bitteschön Usability?
-date: '2017-01-13T12:06:22+01:00'
+title: Wie misst man überhaupt Usability?
 category: Einfach erklärt
-tumblr_url: http://www.usabilityreport.de/post/155812601322/wie-misst-man-bitteschön-usability
 ---
 Der Nutzen (Utility) eines Produkts lässt sich leicht messen, in dem man überprüft, ob es tut, was es soll.
 

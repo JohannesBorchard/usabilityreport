@@ -2,7 +2,7 @@
 layout: post
 title: 10 Usability Heuristiken nach Nielsen [Deutsch] - Systeme bewerten ohne zu fluchen
 excerpt_separator: <!--more-->
-category: Aufzählung
+category: [Aufzählung, Einfach erklärt]
 ---
 Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen uns einige Adjektive durch den Kopf… Doch wenn wir die konkreten Probleme lösen möchten, helfen uns subjektive Eindrücke wenig.
 

@@ -1,24 +1,30 @@
 <div class="post">
 
-  <h1>{{page.title}}</h1>
+  <h1>{{page.title}}</h1> {{content}}
 
-  {{content}}
   <div class="related">
-    {% unless page.category == null %}{% capture pageCategory %}{{ page.category }}{% endcapture %} {% unless site.categories[pageCategory].size == 1 %}
-    <div class="seperator"></div>
-    <div class="row related-posts">
-      <h2 class="text-center">Diese Artikel könnten dir auch gefallen:</h2>
-      <div class="medium-12 small-12 columns">
-        {% for post in site.categories[pageCategory] limit:6 %} {% unless post.title == page.title %}
+    {% unless page.category == null %}
 
-        <h3>
-            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-            </a>
-           </h3> {% endunless %} {% endfor %}
-      </div>
-    </div>
     <div class="seperator"></div>
-    {% endunless %} {% endunless %}
+
+    {% assign maxRelated = 4 %} {% assign minCommonTags = 1 %} {% assign maxRelatedCounter = 0 %}
+    <div class="row">
+      <h2>Diese Artikel könnten dir auch gefallen:</h2>
+      {% for post in site.posts %} {% assign sameTagCount = 0 %} {% assign commonTags = '' %} {% for category in post.categories %}
+      {% if post.url != page.url %} {% if page.categories contains category %} {% assign sameTagCount = sameTagCount | plus:
+      1 %} {% capture tagmarkup %}
+      <span class="label label-default">{{ category }}</span>
+      {% endcapture %} {% assign commonTags = commonTags | append: tagmarkup %} {% endif %} {% endif %} {% endfor %} {% if sameTagCount >= minCommonTags %}
+
+      <div>
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+      </div>
+      
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %} {% if maxRelatedCounter >= maxRelated %} {% break %} {% endif %} {% endif %} {% endfor %}
+    </div>
+
+    <div class="seperator"></div>
+
+    {% endunless %}
   </div>
 </div>

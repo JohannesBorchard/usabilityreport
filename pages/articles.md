@@ -22,15 +22,3 @@ description: Entdecke Artikel aus verschiednen Themenbereichen auf Usability Rep
   </div>
 {% endfor %}
 </div>
-
-<!-- ## [Meistgelesen](/most-read)
-
-## [Einfach erklärt](/explained)
-
-## [Auflistung](/listing)
-
-## [Ratgeber](/advice)
-
-## [Persönliches](/personal)
-
-## [Historie](/history) -->

@@ -7,10 +7,8 @@ tags:
 tumblr_url: http://www.usabilityreport.de/post/137097612597/blogprojekt
 excerpt_separator: <!--more-->
 ---
-* * *
-![image](https://68.media.tumblr.com/e662fbf8ae65e6879c4864ff87e687d3/tumblr_inline_o0suofmCeQ1tupr4e_540.png)
 
-##
+![image](https://68.media.tumblr.com/e662fbf8ae65e6879c4864ff87e687d3/tumblr_inline_o0suofmCeQ1tupr4e_540.png)
 
 ## Die Entstehung dieses Webauftritts
 
@@ -31,7 +29,7 @@ Wieder im Büro, machte ich mich mit Stift und Papier daran, zu überlegen, was 
 
 _<i>Ein Blog über meine Arbeit sollte also irgendwie meine Arbeit
 dokumentieren (logisch) – also den Prozess, der hinter dem Endprodukt
-steht – im Allgemeinen, aber auch an Beispielen. Das müsste in verständlicher aber trotzdem detaillierter Weise geschehen. Außerdem muss ich User Experience Design in wenigen Worten erklären. Es darf nicht zu trocken sein, sollte aber seriös bleiben. Ich könnte ein wenig über mich schreiben und darüber, wie ich auf das Feld UXD gekommen bin. Transparenz dürfte das Ganze nachvollziehbar machen. Tumblr scheint mir trotz Einbußen in der Gestaltung die beste Wahl zu sein. Und, und, und… _</i>
+steht – im Allgemeinen, aber auch an Beispielen. Das müsste in verständlicher aber trotzdem detaillierter Weise geschehen. Außerdem muss ich User Experience Design in wenigen Worten erklären. Es darf nicht zu trocken sein, sollte aber seriös bleiben. Ich könnte ein wenig über mich schreiben und darüber, wie ich auf das Feld UXD gekommen bin. Transparenz dürfte das Ganze nachvollziehbar machen. Tumblr scheint mir trotz Einbußen in der Gestaltung die beste Wahl zu sein. Und, und, und…</i>_
 
 ## 3. Mind-Map
 
@@ -49,9 +47,9 @@ Dieser Schritt ist aufgrund des bereits von Tumblr&nbsp;(aus einer großen Auswa
 
 **1. Sketch:** Mit Edding und weißen Papier (oder per Software) werden sämtliche Ideen einer potentiellen Seitenstruktur grafisch skizziert und die besten ausgewählt.
 
-**2. Low-Fidelity Wireframe: **Die gewählten Skizzen werden weiterentwickelt und die genaue Struktur am Computer ausgearbeitet. Dabei bleibt alles in _Graustufen, ohne Bilder und nur mit dem nötigstem Tex_t.
+**2. Low-Fidelity Wireframe:** Die gewählten Skizzen werden weiterentwickelt und die genaue Struktur am Computer ausgearbeitet. Dabei bleibt alles in _Graustufen, ohne Bilder und nur mit dem nötigstem Text_.
 
-**3. High-Fidelity Wireframe: **Auf dieser Stufe wird das Modell optisch mit dem Endprodukt identisch, da es nun um das User-Interface geht. Schon jetzt kann User-Testing (am Prototyp) stattfinden und die gewonnenen Erkenntnisse schnell, einfach und kostengünstig umgesetzt werden.
+**3. High-Fidelity Wireframe:** Auf dieser Stufe wird das Modell optisch mit dem Endprodukt identisch, da es nun um das User-Interface geht. Schon jetzt kann User-Testing (am Prototyp) stattfinden und die gewonnenen Erkenntnisse schnell, einfach und kostengünstig umgesetzt werden.
 
 Wie schon erwähnt, waren diese Schritte für diesen Blog nicht von Nöten und das User-Testing findet erst in der Betaphase statt.
 

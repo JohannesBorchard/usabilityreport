@@ -62,8 +62,7 @@ Durch die geringe Auflösung kann sich auf die Anordnung von Text und Bildern, v
 
 ![image](https://68.media.tumblr.com/1221e714c5846e77c9bcebf78e622261/tumblr_inline_o1pyc8ssUN1tupr4e_540.png)
 
-[Quelle](https://cdn2.hubspot.net/hubfs/685689/blog-files/UXdesign_wireframing.png)**
-**
+[Quelle](https://cdn2.hubspot.net/hubfs/685689/blog-files/UXdesign_wireframing.png)
 
 **Prototypen**
 Ein Prototyp ist ein Entwurf, der nah an das Endprodukt heran reicht und ein ausgearbeitetes User Interface (Visuelles Design, Bilder Text, Farben, ...) enthält. Trotzdem ist er noch nicht mit dem Endprodukt gleichzusetzen und dient Präsentations- und Testzwecken.

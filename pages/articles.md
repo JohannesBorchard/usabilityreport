@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Alle Artikel nach Kategorien
 permalink: /articles
 description: Entdecke Artikel aus verschiednen Themenbereichen auf Usability Report

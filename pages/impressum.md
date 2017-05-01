@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Impressum und Disclaimer
 permalink: /impressum
 description: Rechtliche Informationen und Kontaktdaten von Usability Report

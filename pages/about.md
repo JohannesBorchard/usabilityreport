@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Person
 permalink: /about
 description: Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden.

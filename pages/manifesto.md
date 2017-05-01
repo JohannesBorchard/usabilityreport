@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Manifest
 permalink: /manifesto
 description: Ich bin davon überzeugt, dass Technik für den Menschen da sein sollte und das auch leisten kann. Du auch?

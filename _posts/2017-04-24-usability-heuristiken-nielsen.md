@@ -55,7 +55,3 @@ Obwohl es besser ist, wenn der Nutzer ein System ohne Hilfe benutzten kann, ist 
 Anhand des [Artikels](https://www.nngroup.com/articles/ten-usability-heuristics/) von Jakob Nielsen habe ich die Punkte frei übersetzt, um deren Inhalt in möglichst präziser und einfacher Sprache wiedergeben zu können.
 
 Im zweiten Teil dieser Artikelserie lernst du, wie wir Systeme mit Hilfe dieser Heuristiken möglichst objektiv bewerten.
-
-_Auf Usability Report erscheint jede Woche ein neuer Artikel._
-
-_Wenn du keinen davon verpassen möchtest, trag dich am Ende der Seite in die Liste für Email-Benachrichtigungen ein!_

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Kontakt
 permalink: /contact
 description: Über die hier angegebenen Kanäle bin ich erreichbar.

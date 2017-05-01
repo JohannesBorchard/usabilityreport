@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Usability & UX
 permalink: /definition
 description: Was bedeutet Usability & UX? Hast du schon mal etwas vor Wut (fast) gegen die Wand geworfen, weil es die _eine Aufgabe_, für die es da ist einfach nicht hinbekommt?

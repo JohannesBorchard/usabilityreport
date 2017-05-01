@@ -1,3 +1,8 @@
+.read-time {
+  margin: 20px 0;
+  /*text-align: right;*/
+}
+
 .post-list ul {
   padding-left: 0;
   list-style: none;
@@ -71,6 +76,10 @@ blockquote {
   display: block;
   padding-bottom: 20px;
   border-bottom: 2px solid #F2F2F2;
+}
+
+.cta {
+  margin: 50px 0;
 }
 
 .pagination {

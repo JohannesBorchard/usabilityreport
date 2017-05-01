@@ -1,5 +1,4 @@
 markdown: kramdown
-baseurl: /usabilityreport
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge
 gems:

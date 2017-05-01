@@ -7,9 +7,9 @@ layout: default
     {% for post in paginator.posts %}
     <div class="post">
       <li>
-        <h2><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h2>
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h2>
         <div class="text">{{ post.excerpt }}</div>
-        <p><a href="{{site.baseurl}}{{post.url}}">Weiterlesen</a></p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">Weiterlesen</a></p>
         <div class="seperator"></div>
       </li>
     </div>

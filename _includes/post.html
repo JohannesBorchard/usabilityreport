@@ -3,9 +3,9 @@
   <h1>{{page.title}}</h1>
 
   {{content}}
-<div class="seperator"></div>
   <div class="related">
-    {% unless page.category == null %} {% capture pageCategory %}{{ page.category }}{% endcapture %} {% unless site.categories[pageCategory].size == 1 %}
+    {% unless page.category == null %}{% capture pageCategory %}{{ page.category }}{% endcapture %} {% unless site.categories[pageCategory].size == 1 %}
+    <div class="seperator"></div>
     <div class="row related-posts">
       <h2 class="text-center">Diese Artikel könnten dir auch gefallen:</h2>
       <div class="medium-12 small-12 columns">
@@ -18,8 +18,7 @@
            </h3> {% endunless %} {% endfor %}
       </div>
     </div>
+    <div class="seperator"></div>
     {% endunless %} {% endunless %}
   </div>
 </div>
-
-<div class="seperator"></div>

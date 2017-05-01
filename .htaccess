@@ -16,8 +16,8 @@ ExpiresDefault "access plus 2 days"
 
 # www canonicalization
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^151\.101\.48\.133$
-RewriteRule ^(.*)$ http://www.usabilityreport.de/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^151\.101\.48\.133
+RewriteRule (.*) http://www.usabilityreport.de/$1 [R=301, L]
 RewriteBase /
 
 RewriteCond %{REQUEST_FILENAME} !-f

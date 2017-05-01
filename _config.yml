@@ -5,6 +5,5 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-redirect-from
 paginate: 5
 permalink: /:title

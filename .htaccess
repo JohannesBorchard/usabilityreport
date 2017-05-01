@@ -13,3 +13,6 @@ ExpiresByType image/x-icon "access plus 1 year"
 ExpiresDefault "access plus 2 days"
 </IfModule>
 ## EXPIRES CACHING ##
+
+RewriteCond %{HTTP_HOST} ^192\.30\.252\.153
+RewriteRule (.*) http://www.usabilityreport.de/$1 [R=301,L]

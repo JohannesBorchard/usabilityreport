@@ -2,8 +2,7 @@
 layout: post
 title: Wie alles anfing...
 date: '2015-12-30T11:20:33+01:00'
-tags:
-- persönliches
+category: Persönlich
 permalink: /anfang
 excerpt_separator: <!--more-->
 ---

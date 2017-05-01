@@ -1,20 +1,36 @@
 ---
 layout: post
-title: Artikel
+title: Alle Artikel nach Kategorien
 permalink: /articles
 description: Entdecke Artikel aus verschiednen Themenbereichen auf Usability Report
 ---
 
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
 
+    <h2 class="category-head">{{ category_name }}</h2>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h3>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
 
-## [Meistgelesen](http://www.usabilityreport.de/tagged/Meistgelesen)
+<!-- ## [Meistgelesen](/most-read)
 
-## [Einfach erklärt](http://www.usabilityreport.de/tagged/EinfachErkl%C3%A4rt)
+## [Einfach erklärt](/explained)
 
-## [Auflistung](http://www.usabilityreport.de/tagged/Auflistung)
+## [Auflistung](/listing)
 
-## [Ratgeber](http://www.usabilityreport.de/tagged/Ratgeber)
+## [Ratgeber](/advice)
 
-## [Persönliches](http://www.usabilityreport.de/tagged/Pers%C3%B6nliches)
+## [Persönliches](/personal)
 
-## [Historie](http://www.usabilityreport.de/tagged/Historie)
+## [Historie](/history) -->

@@ -3,6 +3,17 @@
   list-style: none;
 }
 
+.categories-list ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.categories-list li {
+  font-size: 18px;
+  padding-bottom: 10px;
+  padding-left: 0;
+}
+
 .post {
   margin: 0;
   max-width: 100%;
@@ -66,6 +77,14 @@ blockquote {
   text-align: center;
   font-size: 16px;
   color: #CCCCCC;
+}
+
+.related {
+  margin-top: 30px;
+}
+
+.category-head {
+  margin-top: 50px;
 }
 
 #profile-picture {

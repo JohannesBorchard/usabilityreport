@@ -2,9 +2,7 @@
 layout: post
 title: Top 10 Usability & UX Blogs + Podcasts
 date: '2016-03-18T09:48:43+01:00'
-tags:
-- Auflistung
-- Meistgelesen
+category: Aufzählung
 tumblr_url: http://www.usabilityreport.de/post/141254320992/topten
 excerpt_separator: <!--more-->
 ---

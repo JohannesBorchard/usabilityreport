@@ -2,8 +2,7 @@
 layout: post
 title: Der UX-Design-Prozess
 date: '2016-01-29T14:42:18+01:00'
-tags:
-- EinfachErklärt
+category: Einfach erklärt
 tumblr_url: http://www.usabilityreport.de/post/138294006182/der-ux-design-prozess
 excerpt_separator: <!--more-->
 ---

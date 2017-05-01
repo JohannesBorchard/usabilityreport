@@ -2,8 +2,7 @@
 layout: post
 title: Usability & User Experience Consultant
 date: '2016-03-08T13:19:15+01:00'
-tags:
-- EinfachErklärt
+category: Persönlich
 tumblr_url: http://www.usabilityreport.de/post/140696736677/redirection
 excerpt_separator: <!--more-->
 ---

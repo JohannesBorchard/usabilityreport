@@ -2,8 +2,7 @@
 layout: post
 title: Diese 10 Thesen von Dieter Rams sollten Allgemeinbildung sein
 date: '2016-12-26T11:20:08+01:00'
-tags:
-- Auflistung
+category: Aufzählung
 tumblr_url: http://www.usabilityreport.de/post/154981942842/thesen
 excerpt_separator: <!--more-->
 ---

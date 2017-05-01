@@ -2,8 +2,7 @@
 layout: post
 title: Wie steige ich in Usability & User Experience ein? [Deutschland]
 date: '2016-04-05T00:00:00+02:00'
-tags:
-- Ratgeber
+category: Ratgeber
 tumblr_url: http://www.usabilityreport.de/post/144502974927/ausbildung
 excerpt_separator: <!--more-->
 ---

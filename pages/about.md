@@ -5,11 +5,11 @@ permalink: /about
 description: Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden.
 ---
 
-<!-- ![Profilbild]({{site.baseurl}}/assets/profile-bw.jpg) -->
-<img src="{{site.baseurl}}/assets/profile-bw.jpg" alt="Profilbild" id="profile-picture">
+<img src="/assets/profile-bw.jpg" alt="Profilbild" id="profile-picture">
 
 
 _Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden._
+
 Seit Oktober 2016 studiere ich in Würzburg »Mensch-Computer-Systeme«. Wie kommt man auf sowas?
 
 Nach dem Abitur 2015 habe ich mich für ein Jahr [als Weltwärts-Freiwilliger in die Dominikanische Republik](http://impacto-cultural.tumblr.com/) begeben und mich dort bei einem Kaffeeverband intensiv mit PR und Webdesign beschäftigt.

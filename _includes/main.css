@@ -22,6 +22,7 @@ h1, h2, h3, h4, h5 {
 
 
 /* Desktop */
+
 @media only screen and (min-width: 401px) {
   h1 {
     font-size: 32px;
@@ -37,7 +38,9 @@ h1, h2, h3, h4, h5 {
   }
 }
 
+
 /* Mobile */
+
 @media only screen and (max-width: 400px) {
   h1, h2 {
     font-size: 20px;
@@ -85,4 +88,10 @@ p, dl, hr, h1, h2, h3, h4, h5, h6, ol, ul, pre, table, address, fieldset {
 img {
   width: 100%;
   height: auto;
+}
+
+.categories ul {
+  list-style: none;
+  padding: 0;
+  /*margin-left: 20px;*/
 }

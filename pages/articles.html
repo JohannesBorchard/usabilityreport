@@ -5,7 +5,7 @@ permalink: /articles
 description: Entdecke Artikel aus verschiednen Themenbereichen auf Usability Report
 ---
 
-<div id="archives">
+<!-- <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -20,5 +20,18 @@ description: Entdecke Artikel aus verschiednen Themenbereichen auf Usability Rep
     </article>
     {% endfor %}
   </div>
+{% endfor %}
+</div> -->
+
+<div class="categories archive-group">
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+{% assign sorted_posts = category[1] | reversed %}
+<h2 class="category-head"id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
+<ul>
+  {% for post in sorted_posts %}
+ 	<li><h3><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a></h3></li>
+  {% endfor %}
+</ul>
 {% endfor %}
 </div>

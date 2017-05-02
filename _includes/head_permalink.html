@@ -2,7 +2,7 @@
 
   <title>{{page.title}}</title>
   <meta name="description"{% if page.description %}content="{{ page.description }}"{% else %} content="{{page.excerpt | strip_html}}"{% endif %}>
-  <meta name="author" content="Johannes Borchard" />
+  <meta name="author" property="og:author" content="Johannes Borchard" />
   <link rel="stylesheet" href="/css/styles.css">
   <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | prepend: site.baseurl }}" >
 

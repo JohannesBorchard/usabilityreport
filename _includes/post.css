@@ -8,7 +8,9 @@
   list-style: none;
 }
 
-
+.frontpage-link {
+  font-size: 16px;
+}
 
 .post {
   margin: 0;

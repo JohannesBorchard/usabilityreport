@@ -32,6 +32,6 @@ Herrscht Zeitmangel, kann sich alternativ ein zuständiger Beobachter die von de
 ## Einordnung der Methode
 „Usability-Experten“ sind nicht die *Nutzer* des Systems. Die Aussagekraft einer *Heuristischen Evaluation* ist kaum mit jener des klassischen *User Testings* (wird auch noch vorgestellt) vergleichbar. Ebensowenig kann die Methode alle Usability-Probleme aufdecken oder den Erfolg eines Produkts garantieren.
 
-Dafür ist sie aber auch gar nicht ausgelegt. Laut unabhängiger Forschung [„‚(Jeffries et al. 1991)‘“](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) ist die „Discount Usability Engineering“-Methode besonders kosteneffizient und zeitsparend. 
+Dafür ist sie aber auch gar nicht ausgelegt. Laut [unabhängiger Forschung](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) ist die „Discount Usability Engineering“-Methode besonders kosteneffizient und zeitsparend. 
 
 In einem von Nielsen gegebenen Beispiel konnte eine *Heuristische Evaluation* mit vier Gutachtern Usability-Probleme [im geschätzten Wert von $395.000](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) ausfindig machen.

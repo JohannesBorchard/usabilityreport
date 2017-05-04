@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Usability Heuristiken nach Nielsen [Deutsch] - Systeme bewerten ohne zu fluchen
+title: 10 Usability Heuristiken nach Nielsen - Systeme bewerten ohne zu fluchen
 excerpt_separator: <!--more-->
 category: [Aufzählung, Einfach erklärt]
 ---

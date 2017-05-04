@@ -1,8 +1,5 @@
 * {
   -webkit-font-smoothing: antialiased;
-  margin: 0 auto;
-  padding: 0;
-  /*box-sizing: border-box;*/
 }
 
 body {
@@ -14,7 +11,7 @@ body {
   overflow-wrap: break-word;
   word-wrap: break-word;
   max-width: 500px !important;
-  /*margin: 0 auto;*/
+  margin: 0 auto;
   padding: 0 20px;
 }
 

@@ -26,14 +26,14 @@
 
 
   <div class="related">
-    {% unless page.category == null %} {% assign maxRelated = 4 %} {% assign minCommonTags = 1 %} {% assign maxRelatedCounter = 0 %}
+    {% unless page.category == null %} {% assign maxRelated = 3 %} {% assign minCommonTags = 1 %} {% assign maxRelatedCounter = 0 %}
     <div class="row">
-      <h2>Diese Artikel könnten dir auch gefallen:</h2> {% for post in site.posts %} {% assign sameTagCount = 0 %} {% assign commonTags = '' %} {% for category in post.categories %} {% if post.url != page.url %} {% if page.categories contains category %} {% assign sameTagCount = sameTagCount | plus:
+      <h2>Verwandte Artikel:</h2> {% for post in site.posts %} {% assign sameTagCount = 0 %} {% assign commonTags = '' %} {% for category in post.categories %} {% if post.url != page.url %} {% if page.categories contains category %} {% assign sameTagCount = sameTagCount | plus:
       1 %} {% capture tagmarkup %}
       <span class="label label-default">{{ category }}</span> {% endcapture %} {% assign commonTags = commonTags | append: tagmarkup %} {% endif %} {% endif %} {% endfor %} {% if sameTagCount >= minCommonTags %}
 
       <div>
-        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
       </div>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %} {% if maxRelatedCounter >= maxRelated %} {% break %} {% endif %} {% endif %} {% endfor %}

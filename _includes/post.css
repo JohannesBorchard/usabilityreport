@@ -79,6 +79,11 @@ blockquote {
   margin-top: 30px;
 }
 
+.related h4 {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
 .category-head {
   margin-top: 50px;
 }

@@ -2,47 +2,35 @@
 
   <h1>{{page.title}}</h1>
   <div class="read-time">
-  {% capture words %} {{ page.content | number_of_words | minus: 250 }} {% endcapture %} {% unless words contains "-" %} <em> {{ words | plus: 250 | divided_by: 180 | append: " Minuten Lesezeit" }} </em> {% endunless %}
+    {% capture words %} {{ page.content | number_of_words | minus: 250 }} {% endcapture %} {% unless words contains "-" %} <em> {{ words | plus: 250 | divided_by: 180 | append: " Minuten Lesezeit" }} </em> {% endunless %}
   </div>
   {{content}}
 
+
+  <div class="call-to-action">
+      <p>Möchtest du keinen Artikel mehr verpassen?</p>
+
+
+      <form action="//usabilityreport.us15.list-manage.com/subscribe/post?u=b505ff4d23b667225e930d91e&amp;id=d1bd351cfb" method="post" target="_blank">
+        <div class="input-container">
+          <div id="bear-trap" aria-hidden="true"><input type="text" name="b_b505ff4d23b667225e930d91e_d1bd351cfb" tabindex="-1" value=""></div>
+
+          <input type="email" placeholder="Email-Adresse">
+          <input type="submit" name="subscribe" value="Beantragen">
+
+        </div>
+      </form>
+  </div>
+
   <a href="/">Zurück zur Startseite</a>
 
-  <div class="cta">
-  <!-- <div class="seperator"></div> -->
-    <div class="form-background">
-
-    <!-- <p><em>Auf Usability Report erscheint jetzt jede Woche ein neuer Artikel!</p> <p>Trag dich einfach in den Newsletter ein, um keinen mehr zu verpassen. Kostenlos und ohne Spam.</em></p> -->
-    <p>Melde dich für den Newsletter an!</p>
-
-    <form class="form" action="//usabilityreport.us15.list-manage.com/subscribe/post?u=b505ff4d23b667225e930d91e&amp;id=d1bd351cfb" method="post" target="_blank">
-      <div class="email-field">
-
-        <div id="bear-trap" aria-hidden="true"><input type="text" name="b_b505ff4d23b667225e930d91e_d1bd351cfb" tabindex="-1" value=""></div>
-
-        <input type="email" placeholder="Email-Adresse">
-        <input type="submit" name="subscribe" value="Beantragen">
-
-      </div>
-    </form>
-
-    <!-- <div class="seperator"></div> -->
-  </div>
-  </div>
 
   <div class="related">
-    {% unless page.category == null %}
-
-
-
-    {% assign maxRelated = 4 %} {% assign minCommonTags = 1 %} {% assign maxRelatedCounter = 0 %}
+    {% unless page.category == null %} {% assign maxRelated = 4 %} {% assign minCommonTags = 1 %} {% assign maxRelatedCounter = 0 %}
     <div class="row">
-      <h2>Diese Artikel könnten dir auch gefallen:</h2>
-      {% for post in site.posts %} {% assign sameTagCount = 0 %} {% assign commonTags = '' %} {% for category in post.categories %}
-      {% if post.url != page.url %} {% if page.categories contains category %} {% assign sameTagCount = sameTagCount | plus:
+      <h2>Diese Artikel könnten dir auch gefallen:</h2> {% for post in site.posts %} {% assign sameTagCount = 0 %} {% assign commonTags = '' %} {% for category in post.categories %} {% if post.url != page.url %} {% if page.categories contains category %} {% assign sameTagCount = sameTagCount | plus:
       1 %} {% capture tagmarkup %}
-      <span class="label label-default">{{ category }}</span>
-      {% endcapture %} {% assign commonTags = commonTags | append: tagmarkup %} {% endif %} {% endif %} {% endfor %} {% if sameTagCount >= minCommonTags %}
+      <span class="label label-default">{{ category }}</span> {% endcapture %} {% assign commonTags = commonTags | append: tagmarkup %} {% endif %} {% endif %} {% endfor %} {% if sameTagCount >= minCommonTags %}
 
       <div>
         <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
@@ -55,3 +43,5 @@
     {% endunless %}
   </div>
 </div>
+
+<!-- <p><em>Auf Usability Report erscheint jetzt jede Woche ein neuer Artikel!</p> <p>Trag dich einfach in den Newsletter ein, um keinen mehr zu verpassen. Kostenlos und ohne Spam.</em></p> -->

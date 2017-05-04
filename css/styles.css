@@ -8,3 +8,5 @@
 {% include post.css %}
 
 {% include footer.css %}
+
+{% include form.css %}

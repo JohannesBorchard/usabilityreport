@@ -1,0 +1,11 @@
+<div class="read-time">
+
+  {% capture words %}
+    {{ page.content | number_of_words | minus: 360 }}
+  {% endcapture %}
+
+  {% unless words contains "-" %}
+    <em> {{ words | plus: 360 | divided_by: 180 | append: " Minuten Lesezeit" }} </em>
+  {% endunless %}
+
+</div>

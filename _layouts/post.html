@@ -8,7 +8,17 @@
 
   {% include header.html %}
 
-  {% include post.html %}
+  <div class="post">
+
+    <h1>{{page.title}}</h1>
+    
+    {% include read-time.html %}
+
+    {{content}}
+
+    {% include call-to-action.html %}
+
+  </div>
 
   {% include footer-basic.html %}
 

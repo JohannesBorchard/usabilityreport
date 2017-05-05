@@ -18,6 +18,7 @@ Die [*Heuristische Evaluation*](https://www.nngroup.com/articles/how-to-conduct-
 ## Vorgehen
 Da es für *eine* Person kaum möglich ist, alle Probleme ausfindig zu machen, führt in der Regel eine Gruppe aus fünf Gutachtern die *Heuristische Evaluation* durch. So können bereits [75% der Usability-Probleme gefunden werden](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/). Voraussetzung ist, dass alle intensiv mit den [„Usability Heuristiken“](http://www.usabilityreport.de/usability-heuristiken-nielsen) bzw. den verwendeten Prinzipien vertraut sind.
 [![Nielsen Norman Group Licence: All Rights Reserved](assets/heuristic-matrix.gif)](https://media.nngroup.com/media/editor/2012/10/30/heuristic_matrix.gif)
+*[Grafik](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) mit Erlaubnis der [Nielsen Norman Group](https://www.nngroup.com)*
 ### Unabhängige Evaluation
 Zunächst untersucht jeder Gutachter eigenständig das Interface. Dabei prüft er, ob Verstöße gegen Usability Prinzipien vorliegen.
 
@@ -32,6 +33,6 @@ Herrscht Zeitmangel, kann sich alternativ ein zuständiger Beobachter die von de
 ## Einordnung der Methode
 „Usability-Experten“ sind nicht die *Nutzer* des Systems. Die Aussagekraft einer *Heuristischen Evaluation* ist kaum mit jener des klassischen *User Testings* (wird auch noch vorgestellt) vergleichbar. Ebensowenig kann die Methode alle Usability-Probleme aufdecken oder den Erfolg eines Produkts garantieren.
 
-Dafür ist sie aber auch gar nicht ausgelegt. Laut [unabhängiger Forschung](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) ist die „Discount Usability Engineering“-Methode besonders kosteneffizient und zeitsparend. 
+Dafür ist sie aber auch gar nicht ausgelegt. Laut [unabhängiger Forschung](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) ist die „Discount Usability Engineering“-Methode besonders kosteneffizient und zeitsparend.
 
 In einem von Nielsen gegebenen Beispiel konnte eine *Heuristische Evaluation* mit vier Gutachtern Usability-Probleme [im geschätzten Wert von $395.000](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) ausfindig machen.

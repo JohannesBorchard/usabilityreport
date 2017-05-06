@@ -45,7 +45,7 @@ Da wir nun wissen, wer die Zielgruppe ist und wie deren Bedürfnisse aussehen, k
 
 Auf einen Blick erkenn wir, wie viele Klicks ein User benötigt, um zum Beispiel auf die Projektseite dieses Blogs zu kommen.
 
-Handelt es sich um Produkte mit visuellem Interface (Webseite, App, Software, ...), erstellen wir grobe Skizzen vom Layout – sogenannte [Wireframes](/wireframe-mockup-prototyp). Dies ist aber nicht immer der Fall (Sprach-, Gestensteuerung, ...).
+Handelt es sich um Produkte mit visuellem Interface (Webseite, App, Software, ...), erstellen wir grobe Skizzen vom Layout – sogenannte [Wireframes](/wireframe-mockup-prototyp). Dies ist aber nicht immer der Fall (z.B. Sprach-, Gestensteuerung).
 
 **Wireframes:** Durch die geringe Auflösung könne wir uns auf die Anordnung von Text und Bildern, visuelle Hierarchie und mögliche Optionen für den Nutzer fokussieren. Dabei reichen uns schon Papier und Edding. In dieser Phase können wir immer noch leicht Feeback einholen (Auftraggeber, Early-User-Testing) und Änderungen vornehmen.
 

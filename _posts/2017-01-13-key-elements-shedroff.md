@@ -4,6 +4,7 @@ title: Lässt sich die Zufriedenheit von Nutzern quantifizieren?
 category: Einfach erklärt
 redirect_from: "/post/155813501147/lässt-sich-die-zufriedenheit-von-nutzern"
 redirect_from: "/post/155813501147/joy-of-use"
+redirect_from: "/post/155813501147/nutzerzufriedenheit"
 ---
 
 Usability lässt sich mit Hilfe festgelegter Kriterien leichter bestimmen. Bei einem dieser Maße – Nutzerzufriedenheit – steht man jedoch vor einem ähnlichen Problem.

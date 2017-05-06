@@ -5,6 +5,7 @@ date: '2016-03-18T09:48:43+01:00'
 category: Aufzählung
 excerpt_separator: <!-- more -->
 redirect_from: "/post/141254320992/topten"
+redirect_from: "/post/141254320992"
 ---
 
 Im Gebiet Usability & UX sauge ich alles auf, was ich in die Finger bekomme. Dabei haben sich mit der Zeit ein paar Blogs/Podcasts herauskristallisiert, die ich gerne weiterempfehle (ohne Ranking): <!-- more -->

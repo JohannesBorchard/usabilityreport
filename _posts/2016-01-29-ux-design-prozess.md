@@ -11,7 +11,7 @@ excerpt_separator: <!-- more -->
 
 Im sogenannten _User-Centered-Design-Process _wird zunächst bestimmt, wer die Hauptnutzer sind und was diese mit dem Produkt erreichen möchten/sollen – bei einem _Redesign_ werden in Rücksprache mit dem Kundenservice und zusätzlichen Umfragen/Interviews bestehende _Probleme ermittelt_. Mit den gewonnenen Einsichten werden _Prototypen_ designt und diese anschließend _mit den Nutzern getestet_. Diese Schleife wiederholt sich, bis die gesicherten Ergebnisse an die Entwickler/Interface Designer weitergegeben werden können, welche sie dann realisieren. <!-- more -->
 
-![image](https://68.media.tumblr.com/72050cdbc63475ce32d3bf245f9561f0/tumblr_inline_o1qdmi1WSx1tupr4e_540.png)
+![User Centered Design](assets/user-centered-design.png)
 
 _Je nach Firmengröße und Situation werden die Aufgabenschritte verteilt oder zusammen mit der Entwicklung und dem Design von einer Person übernommen. Es können auch nicht immer alle Schritte durchgeführt werden – unerlässlich ist aber das Testen mit echten Nutzern – das flüchtige Feedback einer Handvoll Kollegen/Freunde ist immer besser, als nur aus dem eigenen Bauchgefühl/Geschmack zu arbeiten!_
 
@@ -43,7 +43,7 @@ Da wir nun wissen, wer die Zielgruppe ist und wie deren Bedürfnisse aussehen, k
 
 **User-Flow (Informationsarchitektur)** Ein User, der von zu viel Informationen überschwemmt wird, verliert sich bei der Nutzung und findet nicht das, was er sucht. Damit beschäftigt sich die Informationsarchitektur. Der Inhalt wird in einer Hierarchie logisch und nachvollziehbar geordnet, damit er zugänglich wird. Einer Mind-Map ähnlich, werden dafür User-Flow-Diagramme erstellt, die z.B. bei einer Webseite/App (oder auch einem Baumarkt) die verschiedenen Seiten/Stationen und deren Inhalt mit Pfeilen in Beziehung zueinander bringt. So kann sich schnell ein Überblick verschafft werden und Änderungen sind schnell umsetzbar.
 
-![image](https://68.media.tumblr.com/70f2bd5e1a1f8371fc7fafda9f931060/tumblr_inline_o1py29tnB61tupr4e_540.png)
+![Flow Chart](assets/blog-flow-chart.jpg)
 
 Auf einen Blick ist zu erkennen, wie viele Klicks ein User benötigt, um zum Beispiel auf die Projektseite dieses Blogs zu kommen.
 
@@ -51,9 +51,7 @@ Handelt es sich um Produkte mit visuellem Interface (Webseite, App, Software, ..
 
 **Wireframes** Durch die geringe Auflösung kann sich auf die Anordnung von Text und Bildern, visuelle Hierarchie und mögliche Optionen für den Nutzer fokussiert werden. Dabei wird auch nicht selten mit Papier und Edding gearbeitet. In dieser Phase können immer noch leicht Feeback eingeholt (Auftraggeber, Early-User-Testing) und Änderungen vorgenommen werden.
 
-![image](https://68.media.tumblr.com/1221e714c5846e77c9bcebf78e622261/tumblr_inline_o1pyc8ssUN1tupr4e_540.png)
-
-[Quelle](https://cdn2.hubspot.net/hubfs/685689/blog-files/UXdesign_wireframing.png)
+![Wireframe](assets/wireframe.jpg)
 
 **Prototypen** Ein Prototyp ist ein Entwurf, der nah an das Endprodukt heran reicht und ein ausgearbeitetes User Interface (Visuelles Design, Bilder Text, Farben, ...) enthält. Trotzdem ist er noch nicht mit dem Endprodukt gleichzusetzen und dient Präsentations- und Testzwecken.
 

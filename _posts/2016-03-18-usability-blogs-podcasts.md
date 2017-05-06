@@ -3,7 +3,6 @@ layout: post
 title: Top 10 Usability & UX Blogs + Podcasts
 date: '2016-03-18T09:48:43+01:00'
 category: Aufzählung
-tumblr_url: 'http://www.usabilityreport.de/post/141254320992/topten'
 excerpt_separator: <!-- more -->
 ---
 
@@ -13,7 +12,7 @@ Blogs:
 
 - [**STUDIO by UXPin**](https://studio.uxpin.com/blog/)
 
-- **[UX Booth](http://www.uxbooth.com/)**
+- [**UX Booth**](http://www.uxbooth.com/)
 
 - [**Signal v. Noise (Medium)**](https://m.signalvnoise.com/)
 
@@ -25,7 +24,7 @@ Blogs:
 
 Podcasts:
 
-- **[UX Podcast](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2)**
+- [**UX Podcast**](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2)
 
 - [**In Conversation with UX Magazine**](https://itunes.apple.com/us/podcast/in-conversation-ux-magazine/id1022990588?mt=2)
 

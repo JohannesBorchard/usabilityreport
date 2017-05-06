@@ -3,7 +3,6 @@ layout: post
 title: 'Wie steige ich in Usability & User Experience ein? [Deutschland]'
 date: '2016-04-05T00:00:00+02:00'
 category: Ratgeber
-tumblr_url: 'http://www.usabilityreport.de/post/144502974927/ausbildung'
 excerpt_separator: <!-- more -->
 ---
 
@@ -15,7 +14,7 @@ Wenn man sich nun im angelsächsischen Raum umhört, heißt es dann fast eintön
 
 In der Zeit meines Auslandsjahres habe ich deshalb mal einen Schritt zurück gemacht und mit offenem Ergebnis die Frage gestellt, welcher Weg für mich (und vielleicht auch für andere in ähnlicher Situation) _der beste_ wäre. Immerhin stehen einem in solch einer Situation theoretisch alle Wege offen und die Zeit könnte wohl nicht besser sein, um in dieses spannende Feld einzusteigen.
 
-**Welche Optionen gibt es?** Seit ich [Ende 2015 auf das Feld gestoßen bin](http://www.usabilityreport.de/post/136262303917/elementaryos-cassidy-james-recently-met-up-with), habe ich mich neben dem Eigenstudium mit der Frage befasst, welche Ausbildungsmöglichkeiten es in Deutschland gibt. Dabei hat es etwa bis Mitte März gedauert, bis ich einen – für meine Ansprüche – annähernd umfassenden Überblick über die Situation bekommen und mich vorläufig für einen Weg entschieden habe.
+**Welche Optionen gibt es?** Seit ich [Ende 2015 auf das Feld gestoßen bin](/anfang), habe ich mich neben dem Eigenstudium mit der Frage befasst, welche Ausbildungsmöglichkeiten es in Deutschland gibt. Dabei hat es etwa bis Mitte März gedauert, bis ich einen – für meine Ansprüche – annähernd umfassenden Überblick über die Situation bekommen und mich vorläufig für einen Weg entschieden habe.
 
 Aufgrund unklarer Fachbegriffe, inhaltlicher Überschneidungen oder schwerer Auffindbarkeit möchte ich die in den letzten Monaten gefundenen Möglichkeiten nun anderen zur Verfügung stellen, damit es andere Interessenten leichter haben – Informationen ohne Struktur sind wertlos und machen nur Arbeit. Dass es kein Fach »Usability & UX« gab, musste ich schnell feststellen und zunächst Begrifflichkeiten, wie _Human Computer Interaction, Interaction Design, Interface Design, Information Design, User Experience Design, User Experience, Usability, ..._ genau verstehen und trennen.
 

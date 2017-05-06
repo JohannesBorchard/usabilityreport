@@ -5,7 +5,7 @@ category: Persönlich
 excerpt_separator: <!-- more -->
 ---
 
-![Screenshot vom alten Layout](https://68.media.tumblr.com/e662fbf8ae65e6879c4864ff87e687d3/tumblr_inline_o0suofmCeQ1tupr4e_540.png)
+![Screenshot vom alten Layout](assets/blog-screenshot.png)
 
 Auch hinter der Seite, die du gerade geöffnet hast und dem Text, den du gerade liest steckt ein Prozess.
 
@@ -25,17 +25,17 @@ _Der Blog müsste erstmal dokumentieren, was ich lerne und selber produziere. Am
 
 ## 3\. Mind-Map
 
-Nun musste ich meinen Gedanken Struktur verleihen. So konnte ich nichts vergessen und hatte einen guten Überblick. Wenn mir so Unstimmigkeiten auffielen, konnte ich diese ebenfalls schnell überarbeiten. Hätte ich an diesem Punkt schon vor Ungeduld einen Blog erstellt, wäre ein Umschwenken nicht so einfach gewesen.![image](https://68.media.tumblr.com/642fe8cc93e6e5fb929215235725bfe0/tumblr_inline_o0v5v9JvHe1tupr4e_540.jpg)
+Nun musste ich meinen Gedanken Struktur verleihen. So konnte ich nichts vergessen und hatte einen guten Überblick. Wenn mir so Unstimmigkeiten auffielen, konnte ich diese ebenfalls schnell überarbeiten. Hätte ich an diesem Punkt schon vor Ungeduld einen Blog erstellt, wäre ein Umschwenken nicht so einfach gewesen.![Mind Map](assets/blog-mind-map.jpg)
 
 ## 4\. Flow Chart
 
-In einer Flow Chart skizzierte ich die Wege, die ein Nutzer des Blogs gehen kann. So konnte ich sichergehen, dass die Informationsstruktur ein reibungslose Verwendung gewährleistet. Die nötigen Klicks von der Startseite bis zum Erreichen _dieses Artikels_ sind so auf einen Blick erkennbar. Auch hier kann frühzeitig und einfach korrigiert werden. Später würde dies eine Komplette Umgestaltung der Seite bedeuten. ![image](https://68.media.tumblr.com/7437f4071d9bea6e8c6260aaaec781db/tumblr_inline_o0v5e90Did1tupr4e_540.jpg)
+In einer Flow Chart skizzierte ich die Wege, die ein Nutzer des Blogs gehen kann. So konnte ich sichergehen, dass die Informationsstruktur ein reibungslose Verwendung gewährleistet. Die nötigen Klicks von der Startseite bis zum Erreichen _dieses Artikels_ sind so auf einen Blick erkennbar. Auch hier kann frühzeitig und einfach korrigiert werden. Später würde dies eine Komplette Umgestaltung der Seite bedeuten. ![Flow Chart](assets/blog-flow-chart.jpg)
 
 ## 5\. Content-Skizzen
 
 Da ich mit Tumblr ohnehin wenig Einfluss auf das Layout hatte, machte ich an dieser Stelle mit dem Inhalt weiter.
 
-Nachdem ich allgemeine Struktur des Blogs in der Flow Chart erstellt habe, war nun der Inhalt dran. Mit Stift und Papier machte ich mir nun Gedanken darüber, was zum Beispiel in einen 'Über'-Text gehört. Auf diese Weise konnte ich mich nicht von Fragen über Formatierung oder Formulierung ablenken lassen. ![image](https://68.media.tumblr.com/2ac6a649edc04312d2050deeca6cb03a/tumblr_inline_o0v5e3atdx1tupr4e_540.jpg)![image](https://68.media.tumblr.com/42b03795aad8bebeac76409cb683703a/tumblr_inline_o0sybniFld1tupr4e_540.jpg)
+Nachdem ich allgemeine Struktur des Blogs in der Flow Chart erstellt habe, war nun der Inhalt dran. Mit Stift und Papier machte ich mir nun Gedanken darüber, was zum Beispiel in einen 'Über'-Text gehört. Auf diese Weise konnte ich mich nicht von Fragen über Formatierung oder Formulierung ablenken lassen. ![Blog Content](assets/blog-pages.jpg)![Schreibtisch bei FECADESJ](assets/workspace.jpg)
 
 ## 7\. Implementierung
 

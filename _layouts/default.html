@@ -5,25 +5,16 @@
 {% include head.html %}
 
 <style media="screen">
-  {
-    % include main.css %
-  }
 
-  {
-    % include header.css %
-  }
+  {% include main.css %}
 
-  {
-    % include post.css %
-  }
+  {% include header.css %}
 
-  {
-    % include footer.css %
-  }
+  {% include post.css %}
 
-  {
-    % include form.css %
-  }
+  {% include footer.css %}
+
+  {% include form.css %}
 </style>
 
 <body>
@@ -35,6 +26,11 @@
   </div>
 
   {% include navigation.html %} {{content}} {% include footer.html %}
+
+</body>
+
+</html>
+nclude footer.html %}
 
 </body>
 

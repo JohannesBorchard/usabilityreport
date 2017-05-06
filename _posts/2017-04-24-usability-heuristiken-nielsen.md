@@ -5,6 +5,7 @@ excerpt_separator: <!-- more -->
 category:
   - Aufzählung
   - Einfach erklärt
+redirect_from: "/post/159821351802/heuristiken"
 ---
 
 Wir mussten alle schon Erfahrungen mit miserabler Software machen. Dabei gehen uns einige Adjektive durch den Kopf... Doch wenn wir die konkreten Probleme lösen möchten, helfen uns subjektive Eindrücke wenig.

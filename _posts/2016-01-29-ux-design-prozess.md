@@ -63,7 +63,6 @@ Das Testen mit echten Nutzern ist unumgänglich und spart uns im Nachhinein eini
 **Ferntests:** Wenn Tests vor Ort nicht möglich sind, werden diese über das Internet durchgeführt. Feedback ist somit zwar nicht *Face-To-Face* möglich, die Nutzer befinden sich jedoch in einer gewohnten Umgebung und handeln natürlicher.
 
 **A/B-Tests:** In sogenannten A/B-Tests testen wir zwei Versionen eines Produktes parallel. Dies können _verschiedene Designoptionen_ sein, eine _Vorher/Nachher-Version_ (Redesign), oder der _Vergleich mit einem Konkurrenzprodukt_. Bei der Entscheidung, ob die Ergebnisse signifikant sind, helfen uns Methoden der Inferenzstatistik (Hypothesentest).
-* * *
 
 Wir haben nun in einem Wechsel von Design- und Testphase sämtliche Probleme gefunden und beseitigt. In Rücksprache mit den _Auftraggebern_, _Entwicklern_ und _UI-Designern_ kann nun die **Implementierung** beginnen. Auf Grundlage des Prototypen wird das Endprodukt entwickelt und nach technischen Tests veröffentlicht.
 

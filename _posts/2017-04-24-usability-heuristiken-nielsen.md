@@ -24,35 +24,35 @@ Wie lauten also die Faustregeln der Usability?
 
 ## Die zehn Heuristiken
 
-1. **Sichtbarkeit des Systemstatus**<br>
-  Das System informiert den Nutzer immer darüber, was gerade passiert – rechtzeitig und durch angemessenes Feedback.
+1.  **Sichtbarkeit des Systemstatus**<br>
+    Das System informiert den Nutzer immer darüber, was gerade passiert – rechtzeitig und durch angemessenes Feedback.
 
-2. **Übereinstimmung von System und Wirklichkeit**<br>
-  Das System spricht die Sprache des Nutzers – mit ihm vertrauten Wörtern, Phrasen und Konzepten. Entlehnt aus der echten Welt erscheinen Informationen in ihrer natürlichen und logischen Ordnung.
+2.  **Übereinstimmung von System und Wirklichkeit**<br>
+    Das System spricht die Sprache des Nutzers – mit ihm vertrauten Wörtern, Phrasen und Konzepten. Entlehnt aus der echten Welt erscheinen Informationen in ihrer natürlichen und logischen Ordnung.
 
-3. **Nutzerkontrolle und Freiheit**<br>
-  Nutzer führen Aktionen oft unbeabsichtigt durch. Auswege wie „Rückgängig", „Wiederholen" und „ESC" sind deshalb immer möglich und sichtbar.
+3.  **Nutzerkontrolle und Freiheit**<br>
+    Nutzer führen Aktionen oft unbeabsichtigt durch. Auswege wie „Rückgängig", „Wiederholen" und „ESC" sind deshalb immer möglich und sichtbar.
 
-4. **Beständigkeit und Standards**<br>
-  Nutzer müssen nicht überlegen, ob unterschiedliche Wörter, Situationen und Aktionen das Gleiche meinen. Die Konventionen des Betriebssystems werden eingehalten.
+4.  **Beständigkeit und Standards**<br>
+    Nutzer müssen nicht überlegen, ob unterschiedliche Wörter, Situationen und Aktionen das Gleiche meinen. Die Konventionen des Betriebssystems werden eingehalten.
 
-5. **Fehlervermeidung**<br>
-  Besser als jede gute Fehlermeldung ist ein sorgfältiges Design, welches Fehler gar nicht erst auftreten lässt. Das System vermeidet fehleranfällige Situationen oder warnt den Nutzer und lässt ihn die Aktion bestätigen.
+5.  **Fehlervermeidung**<br>
+    Besser als jede gute Fehlermeldung ist ein sorgfältiges Design, welches Fehler gar nicht erst auftreten lässt. Das System vermeidet fehleranfällige Situationen oder warnt den Nutzer und lässt ihn die Aktion bestätigen.
 
-6. **Wiedererkennung statt Erinnerung**<br>
-  Durch sichtbare Objekte, Aktionen und Optionen muss der Nutzer weniger im Gedächtnis behalten. Anleitungen zum Gebrauch des Systems sind sichtbar oder leicht zu erreichen.
+6.  **Wiedererkennung statt Erinnerung**<br>
+    Durch sichtbare Objekte, Aktionen und Optionen muss der Nutzer weniger im Gedächtnis behalten. Anleitungen zum Gebrauch des Systems sind sichtbar oder leicht zu erreichen.
 
-7. **Flexibilität und Effizienz**<br>
-  Kurzbefehle und andere Abkürzungen – unsichtbar für Neulinge – beschleunigen bei fortgeschrittenen Nutzern die Bedienung. Zusätzlich sind häufige Aktionen individuell anpassbar.
+7.  **Flexibilität und Effizienz**<br>
+    Kurzbefehle und andere Abkürzungen – unsichtbar für Neulinge – beschleunigen bei fortgeschrittenen Nutzern die Bedienung. Zusätzlich sind häufige Aktionen individuell anpassbar.
 
-8. **Ästhetisches und minimalistisches Design**<br>
-  Dialogfenster enthalten keine überflüssigen oder nur selten gebrauchten Informationen. Denn _jede_ zusätzliche Information steht in Konkurrenz mit den _relevanten_ Informationen und mindert deren Sichtbarkeit.
+8.  **Ästhetisches und minimalistisches Design**<br>
+    Dialogfenster enthalten keine überflüssigen oder nur selten gebrauchten Informationen. Denn _jede_ zusätzliche Information steht in Konkurrenz mit den _relevanten_ Informationen und mindert deren Sichtbarkeit.
 
-9. **Hilfestellung beim Erkennen, Bewerten und Beheben von Fehlern**<br>
-  Fehlermeldungen sollten in klarer Sprache (kein Code) formuliert sein, das Problem exakt beschreiben und eine konstruktive Lösung vorschlagen.
+9.  **Hilfestellung beim Erkennen, Bewerten und Beheben von Fehlern**<br>
+    Fehlermeldungen sollten in klarer Sprache (kein Code) formuliert sein, das Problem exakt beschreiben und eine konstruktive Lösung vorschlagen.
 
 10. **Hilfe und Dokumentation**<br>
-  Obwohl es besser ist, wenn der Nutzer ein System ohne Hilfe benutzten kann, ist es manchmal Nötig, eine Dokumentation bereitzustellen. In dem Fall sind die Informationen einfach zu finden und konzentrieren sich auf die Aufgabe des Nutzers. Die Dokumentation enthält konkrete Schritte zur Ausführung und beschränkt sich auf das Wesentliche.
+    Obwohl es besser ist, wenn der Nutzer ein System ohne Hilfe benutzten kann, ist es manchmal Nötig, eine Dokumentation bereitzustellen. In dem Fall sind die Informationen einfach zu finden und konzentrieren sich auf die Aufgabe des Nutzers. Die Dokumentation enthält konkrete Schritte zur Ausführung und beschränkt sich auf das Wesentliche.
 
 [![Error on Windows](assets/windows-error.png)](https://www.medo64.com/2013/03/error-the-operation-completed-successfully/)
 

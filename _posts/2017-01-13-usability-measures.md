@@ -13,17 +13,17 @@ Eine Hilfestellung bieten Usability Measures (allgemeingültige Kriterien, deren
 
 ## Shackel (1990)
 
-- Effektivität (vgl. Utility)
-- Erlernbarkeit
-- Flexibilität (Adaption an verschiedene Aufgaben)
-- Attitüde/Nutzerzufriedenheit
+-   Effektivität (vgl. Utility)
+-   Erlernbarkeit
+-   Flexibilität (Adaption an verschiedene Aufgaben)
+-   Attitüde/Nutzerzufriedenheit
 
 ## Nielsen und Landauer (1993)
 
-- Effektivität
-- Effizienz
-- Erlernbarkeit und Erinnern der Benutzung
-- Sicherheit
-- Zufriedenheit der Nutzer
+-   Effektivität
+-   Effizienz
+-   Erlernbarkeit und Erinnern der Benutzung
+-   Sicherheit
+-   Zufriedenheit der Nutzer
 
 Fallen dir Produkte ein, welche diese Kriterien besonders gut/schlecht erfüllen?

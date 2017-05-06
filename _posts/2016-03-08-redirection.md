@@ -17,7 +17,7 @@ Mit der Recherche der letzten Wochen und dem Kontakt mit Fachstudienberatern und
 **Und jetzt?** Schließlich hat sich dann quasi alles gefügt und ich bin auf die Profession des _Usability & UX Consultant_ gestoßen – ich könnte mir keinen besseren Beruf für mich vorstellen. Kurz zur Erklärung:
 
 > **[Usability](http://www.usabilityreport.de/definition)** befasst sich mit der Effektivität, Effizienz und Zufriedenstellung von einem Produkt – ist es benutzerfreundlich?
-
+>
 > **[User Experience](http://www.usabilityreport.de/definition)** geht einen Schritt weiter und umfasst die gesamtheitliche Erfahrung mit dem Produkt – wie ist das Nutzererlebnis?
 
 Ersteres kümmert sich in etwa um den bestmöglichen Gebrauch eines Produktes und letzteres sorgt dafür, dass der Nutzer eine gute Erfahrung macht und wiederkehrt.

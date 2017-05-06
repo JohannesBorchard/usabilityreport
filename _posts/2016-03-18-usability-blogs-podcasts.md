@@ -12,24 +12,24 @@ Im Gebiet Usability & UX sauge ich alles auf, was ich in die Finger bekomme. Dab
 
 Blogs:
 
-- [**STUDIO by UXPin**](https://studio.uxpin.com/blog/)
+-   [**STUDIO by UXPin**](https://studio.uxpin.com/blog/)
 
-- [**UX Booth**](http://www.uxbooth.com/)
+-   [**UX Booth**](http://www.uxbooth.com/)
 
-- [**Signal v. Noise (Medium)**](https://m.signalvnoise.com/)
+-   [**Signal v. Noise (Medium)**](https://m.signalvnoise.com/)
 
-- [**UX Daily**](https://www.interaction-design.org/literature/article/overview)
+-   [**UX Daily**](https://www.interaction-design.org/literature/article/overview)
 
-- [**UX for the masses**](http://www.uxforthemasses.com/)
+-   [**UX for the masses**](http://www.uxforthemasses.com/)
 
-- [**UX Magazine**](http://uxmag.com/)
+-   [**UX Magazine**](http://uxmag.com/)
 
 Podcasts:
 
-- [**UX Podcast**](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2)
+-   [**UX Podcast**](https://itunes.apple.com/us/podcast/ux-podcast/id438896324?mt=2)
 
-- [**In Conversation with UX Magazine**](https://itunes.apple.com/us/podcast/in-conversation-ux-magazine/id1022990588?mt=2)
+-   [**In Conversation with UX Magazine**](https://itunes.apple.com/us/podcast/in-conversation-ux-magazine/id1022990588?mt=2)
 
-- [**Let's Make Mistakes**](http://www.mistakes.show/)
+-   [**Let's Make Mistakes**](http://www.mistakes.show/)
 
-- [**Data Sceptic**](http://dataskeptic.com/episodes.php)
+-   [**Data Sceptic**](http://dataskeptic.com/episodes.php)

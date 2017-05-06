@@ -3,24 +3,24 @@ layout: post
 title: Der UX-Design-Prozess
 category: Einfach erklärt
 excerpt_separator: <!-- more -->
-redirect_from: "/post/138294006182/der-ux-design-prozess"
+redirect_from: /post/138294006182/der-ux-design-prozess
 ---
 
 **Was macht ein UX-Designer?**
 
 **In Kürze:** Für ihn steht die gesamtheitliche Erfahrung, die eine Nutzer mit einem Produkt macht an jeder Stelle des Entwicklungsprozesses im Mittelpunkt. In dieser Phase tritt er als [Advokat der Nutzerinteressen](http://www.usabilityreport.de/about) auf – denn ohne deren Berücksichtigung kann ein Produkt nicht langfristig funktionieren.
 
-Im sogenannten _User-Centered-Design-Process _wird zunächst bestimmt, wer die Hauptnutzer sind und was diese mit dem Produkt erreichen möchten/sollen – bei einem _Redesign_ werden in Rücksprache mit dem Kundenservice und zusätzlichen Umfragen/Interviews bestehende _Probleme ermittelt_. Mit den gewonnenen Einsichten werden _Prototypen_ designt und diese anschließend _mit den Nutzern getestet_. Diese Schleife wiederholt sich, bis die gesicherten Ergebnisse an die Entwickler/Interface Designer weitergegeben werden können, welche sie dann realisieren. <!-- more -->
+Im sogenannten _User-Centered-Design-Process \_wird zunächst bestimmt, wer die Hauptnutzer sind und was diese mit dem Produkt erreichen möchten/sollen – bei einem \_Redesign_ werden in Rücksprache mit dem Kundenservice und zusätzlichen Umfragen/Interviews bestehende _Probleme ermittelt_. Mit den gewonnenen Einsichten werden _Prototypen_ designt und diese anschließend _mit den Nutzern getestet_. Diese Schleife wiederholt sich, bis die gesicherten Ergebnisse an die Entwickler/Interface Designer weitergegeben werden können, welche sie dann realisieren. <!-- more -->
 
 ![User Centered Design](assets/user-centered-design.png)
 
 _Je nach Firmengröße und Situation werden die Aufgabenschritte verteilt oder zusammen mit der Entwicklung und dem Design von einer Person übernommen. Es können auch nicht immer alle Schritte durchgeführt werden – unerlässlich ist aber das Testen mit echten Nutzern – das flüchtige Feedback einer Handvoll Kollegen/Freunde ist immer besser, als nur aus dem eigenen Bauchgefühl/Geschmack zu arbeiten!_
 
---------------------------------------------------------------------------------
+* * *
 
-**0\. Anforderungen des Auftragsgebers** Bevor der UX-Design-Prozess beginnt, muss – neben speziellen Bedingungen des Auftraggebers – festgelegt werden, um welches Produkt es sich handelt und was dessen Aufgabe ist – ohne solche Informationen lässt sich keine Zielgruppe aufstellen.
+**0. Anforderungen des Auftragsgebers** Bevor der UX-Design-Prozess beginnt, muss – neben speziellen Bedingungen des Auftraggebers – festgelegt werden, um welches Produkt es sich handelt und was dessen Aufgabe ist – ohne solche Informationen lässt sich keine Zielgruppe aufstellen.
 
-## **1\. Recherche**
+## **1. Recherche**
 
 Recherche nimmt einen Großteil der Arbeit ein und steht _immer vor dem Design-Prozess_. Ohne sie weiß man nicht, für wen man was entwickelt. Auf diese Weise wird die schmerzhafte und kostspielige Erfahrung vermieden, am fertigen Produkt grundlegende Änderungen vornehmen zu müssen.
 
@@ -38,7 +38,7 @@ Hierfür nehme ich das [_Five Factor Model (Big Five)_](https://en.wikipedia.org
 
 Entscheidend ist die Erkenntnis, dass man selber (meistens) nicht der Endnutzer sein wird und ein Großteil der Menschen anders denkt, als der Designer des Produkts (es gerne hätte).
 
-## **2\. Design**
+# **2. Design**
 
 Da wir nun wissen, wer die Zielgruppe ist und wie deren Bedürfnisse aussehen, kann das Designen beginnen.
 
@@ -56,7 +56,7 @@ Handelt es sich um Produkte mit visuellem Interface (Webseite, App, Software, ..
 
 **Prototypen** Ein Prototyp ist ein Entwurf, der nah an das Endprodukt heran reicht und ein ausgearbeitetes User Interface (Visuelles Design, Bilder Text, Farben, ...) enthält. Trotzdem ist er noch nicht mit dem Endprodukt gleichzusetzen und dient Präsentations- und Testzwecken.
 
-## **3\. Testen**
+# **3. Testen**
 
 Neben der User-Recherche stellt auch das Testen einen Kernbereich des UX-Designs dar. In dieser Phase können anhand des Prototypen potentielle Problembereiche gefunden werden und die Entscheidungen in der Designphase auf Standfestigkeit geprüft werden. Das Testen mit echten Nutzern ist unumgänglich und spart im Nachhinein einiges an Zeit und Geld. Dabei muss diese Phase keinen großen Aufwand bedeuten und schon das Testen mit [5 Nutzern macht in der Regel 85% der Usability-Probleme](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) sichtbar.
 
@@ -66,7 +66,7 @@ Neben der User-Recherche stellt auch das Testen einen Kernbereich des UX-Designs
 
 **A/B-Tests** In sogenannten A/B-Tests werden zwei Versionen eines Produktes nacheinander getestet. Dies können _verschiedene Designoptionen_ sein, eine _Vorher/Nachher-Version_ (Redesign), oder der _Vergleich mit einem Konkurrenzprodukt_. Die Signifikanz der Ergebnisse wird schließlich mit Methoden der Statistik (Hypothesentests) ermittelt, um daraus Schlüsse zu ziehen.
 
---------------------------------------------------------------------------------
+* * *
 
 Wenn nun in einem Wechsel von Design- und Testphase sämtliche Probleme gefunden und beseitigt wurden, kann in Rücksprache mit den _Auftraggebern_, _Entwicklern_ und _UI-Designern_ die **Implementierung** beginnen. Auf Grundlage der Prototypen wird das Endprodukt entwickelt und nach einer Reihe technischer Tests veröffentlicht.
 

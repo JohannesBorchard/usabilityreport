@@ -13,7 +13,7 @@ Von der Idee bis zum fertigen Blog ist es kein geradliniger Weg. Vieles wird pro
 
 Wenn dich also interessiert, wie dieser Blog und seine Struktur entstanden ist, schau dir den Artikel an. <!-- more -->
 
-# 1\. Idee
+## 1\. Idee
 
 In einer Pause auf dem Dach unserer Kooperative kam mir der Gedanke, dass ich vielleicht einen größeren Wert erschaffe, wenn ich mich nicht gleich in das [gerade entdeckte Berufsfeld](http://www.usabilityreport.de/anfang) stürze. Stattdessen könnte ich über meine Entwicklung reflektieren und die Reise für andere dokumentieren. Ich ahnte, dass mein [bereits bestehender Auslandsblog](http://impacto-cultural.tumblr.com/) mit seiner Leserschaft wohl nicht das passende Medium dafür war. Da ich nun schon mit Tumblr vertraut war, entschied ich mich, einfach einen weiteren Blog anzulegen, um die unterschiedlichen Zielgruppen jeweils am Besten erreichen zu können.
 

@@ -24,7 +24,7 @@
       {% assign minCommonTags = 1 %}
       {% assign maxRelatedCounter = 0 %}
 
-    <div class="row">
+    <div>
       <h2>Verwandte Artikel:</h2>
       {% for post in site.posts %}
         {% assign sameTagCount = 0 %}
@@ -36,7 +36,7 @@
             {% assign sameTagCount = sameTagCount | plus:1 %}
 
             {% capture tagmarkup %}
-            <span class="label label-default">{{ category }}</span>
+            <span>{{ category }}</span>
             {% endcapture %}
 
             {% assign commonTags = commonTags | append: tagmarkup %}

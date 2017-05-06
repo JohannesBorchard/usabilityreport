@@ -6,12 +6,16 @@
 
 <body>
 
-  {% include header.html %}
+  <div class="blogtitle header" itemscope itemtype ="http://schema.org/Organization">
+    <a href="/" itemprop="legalName">Usability Report</a>
+  </div>
+
+  {% include navigation.html %}
 
   <div class="post">
 
     <h1>{{page.title}}</h1>
-    
+
     {% include read-time.html %}
 
     {{content}}

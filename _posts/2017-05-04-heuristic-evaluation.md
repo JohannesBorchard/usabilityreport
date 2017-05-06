@@ -11,13 +11,13 @@ image: assets/heuristic-matrix.gif
 
 Dieser Artikel weist dich in die Methode der „Heuristischen Evaluation" ein. Im Anschluss verfügst du über alle Grundlagen, um ein Interface konstruktiv bewerten zu können. <!-- more -->
 
-# Bedeutung
+## Bedeutung
 
 Wie wir [bereits herausgefunden haben](http://www.usabilityreport.de/usability-heuristiken-nielsen), sind die hier gemeinten _Heuristiken_ allgemeine „Faustregeln" für gute Usability. Eine Evaluation ist [laut dem Duden](http://www.duden.de/rechtschreibung/Evaluation) eine „fachgerechte Bewertung".
 
 Die [_Heuristische Evaluation_](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) beschreibt eine Methode zum effektiven Finden von Usability-Fehlern.
 
-# Vorgehen
+## Vorgehen
 
 Da es für _eine_ Person kaum möglich ist, alle Probleme ausfindig zu machen, führt in der Regel eine Gruppe aus fünf Gutachtern die _Heuristische Evaluation_ durch. So können bereits [75% der Usability-Probleme gefunden werden](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/). Voraussetzung ist, dass alle intensiv mit den [„Usability Heuristiken"](http://www.usabilityreport.de/usability-heuristiken-nielsen) bzw. den verwendeten Prinzipien vertraut sind. [![Nielsen Norman Group Licence: All Rights Reserved](assets/heuristic-matrix.gif)](https://media.nngroup.com/media/editor/2012/10/30/heuristic_matrix.gif) _[Grafik](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) mit Erlaubnis der [Nielsen Norman Group](https://www.nngroup.com)_
 
@@ -35,7 +35,7 @@ Optional werden den einzelnen Punkten [Schweregrade](https://www.nngroup.com/art
 
 Herrscht Zeitmangel, kann sich alternativ ein zuständiger Beobachter die von den Gutachtern gesammelten Punkte mündlich präsentieren lassen.
 
-# Einordnung der Methode
+## Einordnung der Methode
 
 „Usability-Experten" sind nicht die _Nutzer_ des Systems. Die Aussagekraft einer _Heuristischen Evaluation_ ist kaum mit jener des klassischen _User Testings_ (wird auch noch vorgestellt) vergleichbar. Ebensowenig kann die Methode alle Usability-Probleme aufdecken oder den Erfolg eines Produkts garantieren.
 

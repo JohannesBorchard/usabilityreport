@@ -19,7 +19,7 @@ _Je nach Firmengröße und Situation werden die Aufgabenschritte verteilt oder z
 
 **0\. Anforderungen des Auftragsgebers** Bevor der UX-Design-Prozess beginnt, muss – neben speziellen Bedingungen des Auftraggebers – festgelegt werden, um welches Produkt es sich handelt und was dessen Aufgabe ist – ohne solche Informationen lässt sich keine Zielgruppe aufstellen.
 
-# **1\. Recherche**
+## **1\. Recherche**
 
 Recherche nimmt einen Großteil der Arbeit ein und steht _immer vor dem Design-Prozess_. Ohne sie weiß man nicht, für wen man was entwickelt. Auf diese Weise wird die schmerzhafte und kostspielige Erfahrung vermieden, am fertigen Produkt grundlegende Änderungen vornehmen zu müssen.
 
@@ -37,7 +37,7 @@ Hierfür nehme ich das [_Five Factor Model (Big Five)_](https://en.wikipedia.org
 
 Entscheidend ist die Erkenntnis, dass man selber (meistens) nicht der Endnutzer sein wird und ein Großteil der Menschen anders denkt, als der Designer des Produkts (es gerne hätte).
 
-# **2\. Design**
+## **2\. Design**
 
 Da wir nun wissen, wer die Zielgruppe ist und wie deren Bedürfnisse aussehen, kann das Designen beginnen.
 
@@ -57,7 +57,7 @@ Handelt es sich um Produkte mit visuellem Interface (Webseite, App, Software, ..
 
 **Prototypen** Ein Prototyp ist ein Entwurf, der nah an das Endprodukt heran reicht und ein ausgearbeitetes User Interface (Visuelles Design, Bilder Text, Farben, ...) enthält. Trotzdem ist er noch nicht mit dem Endprodukt gleichzusetzen und dient Präsentations- und Testzwecken.
 
-# **3\. Testen**
+## **3\. Testen**
 
 Neben der User-Recherche stellt auch das Testen einen Kernbereich des UX-Designs dar. In dieser Phase können anhand des Prototypen potentielle Problembereiche gefunden werden und die Entscheidungen in der Designphase auf Standfestigkeit geprüft werden. Das Testen mit echten Nutzern ist unumgänglich und spart im Nachhinein einiges an Zeit und Geld. Dabei muss diese Phase keinen großen Aufwand bedeuten und schon das Testen mit [5 Nutzern macht in der Regel 85% der Usability-Probleme](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) sichtbar.
 

@@ -20,7 +20,15 @@
 
 <body>
 
-    {% include header.html %} {{content}} {% include footer.html %}
+    <div class="blogtitle header" itemscope itemtype ="http://schema.org/Organization">
+      <h1><a href="/" itemprop="legalName">Usability Report</a></h1>
+    </div>
+
+    {% include navigation.html %}
+
+    {{content}}
+
+    {% include footer.html %}
 
 </body>
 

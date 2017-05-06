@@ -3,18 +3,17 @@
   text-transform: uppercase;
 }
 
-.title {
+.blogtitle {
   letter-spacing: 3px;
   margin: 50px 0;
 
 }
 
-.title a {
+.blogtitle h1, .blogtitle a {
   color: #333333;
   font-size: 25px;
   font-weight: 300;
-
-  /*font-weight: 400;*/
+  line-height: 34px;
 }
 
 .nav {

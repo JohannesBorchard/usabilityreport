@@ -5,6 +5,7 @@ category:
   - Persönlich
   - Einfach erklärt
 excerpt_separator: <!-- more -->
+redirect_from: "/post/140696736677/redirection"
 ---
 
 Wie es die neue Domain [usabilityreport.de](http://www.usabilityreport.de/) und weitere [kleine Veränderungen](http://www.usabilityreport.de/about) schon erahnen ließen, hat sich diese Homepage – und damit auch meine Ausrichtung – einer kleinen Kursänderung unterzogen.

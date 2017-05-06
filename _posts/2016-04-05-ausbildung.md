@@ -4,6 +4,7 @@ title: 'Wie steige ich in Usability & User Experience ein? [Deutschland]'
 date: '2016-04-05T00:00:00+02:00'
 category: Ratgeber
 excerpt_separator: <!-- more -->
+redirect_from: "/post/144502974927/ausbildung"
 ---
 
 Das Konzept der _Usability_ gibt es auch in Deutschland schon eine Weile – wenn auch noch nicht im Mainstream angekommen. _User Experience_ ist dafür gerade erst im Aufblühen – selbst in den U.S.A. gibt es bisher noch kaum einheitliche Termini und jeder sucht sich eben seinen Weg in das Feld. Quereinstiege sind hier sehr üblich – UX-Professionals kommen z.B. aus dem Webdesign, Visual Design, aus der IT oder der Kundenberatung.

@@ -3,6 +3,7 @@ layout: post
 title: Diese 10 Thesen von Dieter Rams sollten Allgemeinbildung sein
 category: Aufzählung
 excerpt_separator: <!-- more -->
+redirect_from: "/post/154981942842/thesen"
 ---
 
 Zeitlos und aufschlussreich. Dieter Rams auf die Frage, was gutes Design ausmacht.

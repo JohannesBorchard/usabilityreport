@@ -3,6 +3,7 @@ layout: post
 title: Der UX-Design-Prozess
 category: Einfach erklärt
 excerpt_separator: <!-- more -->
+redirect_from: "/post/138294006182/der-ux-design-prozess"
 ---
 
 **Was macht ein UX-Designer?**

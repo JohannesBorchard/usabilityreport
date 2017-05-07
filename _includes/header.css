@@ -6,14 +6,24 @@
 .blogtitle {
   letter-spacing: 3px;
   margin: 50px 0;
-
 }
 
-.blogtitle h1, .blogtitle a {
+.blogtitle a, .blogtitle a:hover {
+  display: block;
   color: #333333;
   font-size: 25px;
   font-weight: 300;
-  line-height: 34px;
+  line-height: 25px;
+  text-decoration: none;
+}
+
+.blogtitle p {
+  font-size: 14px;
+  line-height: 14px;
+  text-transform: none;
+  margin-top: 15px;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 .nav {

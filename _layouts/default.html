@@ -15,21 +15,25 @@
   {% include footer.css %}
 
   {% include form.css %}
+
 </style>
 
 <body>
 
-  <div class="blogtitle header" itemscope itemtype="http://schema.org/Organization">
-    <h1>
-        <a href="/" itemprop="legalName">Usability Report</a>
-      </h1>
+<div class="header">
+
+  <div class="blogtitle" itemscope itemtype="http://schema.org/Organization">
+    <h1><a href="/" itemprop="legalName">Usability Report</a></h1>
+    <p>User Experience verstehen</p>
   </div>
 
-  {% include navigation.html %} {{content}} {% include footer.html %}
+  {% include navigation.html %}
 
-</body>
+</div>
 
-</html>
+{{content}}
+
+{% include footer.html %}
 
 </body>
 

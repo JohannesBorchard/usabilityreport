@@ -35,7 +35,11 @@ Optional werden den einzelnen Punkten [Schweregrade](https://www.nngroup.com/art
 
 Herrscht Zeitmangel, kann sich alternativ ein zuständiger Beobachter die von den Gutachtern gesammelten Punkte mündlich präsentieren lassen.
 
-## Einordnung der Methode
+## Zusammenfassung und Einordnung der Methode
+
+1.  Eine Gruppe von idealerweise fünf Usability-Experten macht sich mit den verwendeten Heuristiken vertraut.
+2.  Jeder Gutachter geht das Interface alleine durch und notiert sich dabei Usability-Probleme mit Begründung.
+3.  Die Gruppe bespricht die Ergebnisse und hält sie in einem Bericht fest. Optional sortieren sie die Probleme nach Schweregrad.
 
 „Usability-Experten" sind nicht die _Nutzer_ des Systems. Die Aussagekraft einer _Heuristischen Evaluation_ ist kaum mit jener des klassischen _User Testings_ (wird auch noch vorgestellt) vergleichbar. Ebensowenig kann die Methode alle Usability-Probleme aufdecken oder den Erfolg eines Produkts garantieren.
 

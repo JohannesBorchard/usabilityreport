@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Usability & User Experience Consultant
+title: Warum jetzt Usability & User Experience Consultant?
 category:
   - Persönlich
   - Einfach erklärt
@@ -8,18 +8,22 @@ excerpt_separator: <!-- more -->
 redirect_from: "/post/140696736677/redirection"
 ---
 
-Wie es die neue Domain [usabilityreport.de](http://www.usabilityreport.de/) und weitere [kleine Veränderungen](http://www.usabilityreport.de/about) schon erahnen ließen, hat sich diese Homepage – und damit auch meine Ausrichtung – einer kleinen Kursänderung unterzogen.
+Wie es die neue Domain [usabilityreport.de](http://www.usabilityreport.de/) und weitere [kleine Veränderungen](http://www.usabilityreport.de/about) schon erahnen lassen, hat sich diese Homepage – und damit auch meine Ausrichtung – einer kleinen Kursänderung unterzogen. Dieser Artikel erklärt, wohin es geht und was Usability & UX Consulting bedeutet.<!-- more -->
 
-**Warum erst UXD?** Anfänglich bin ich über den Begriff _User Experience Design (Schwerpunkt: Interaction Design_) in dieses brandneue Feld voller _widersprüchlicher und unklarer Terminologien_ gestoßen und habe erst einmal alle Informationen aufgenommen, die ich in die Finger bekam. Laufend habe ich darüber reflektiert, welche Arbeitsrealität mir wohl am Besten entsprechen würde. <!-- more -->
+## Warum erst UXD?
+[Auf das Feld gestoßen](/anfang) bin ich über den Begriff User Experience und das *Buzzword* UX-Design. Schnell merkte ich, dass sich viele Begriffe überschnitten und manche sogar die Bedeutung wechselten – je nachdem, wer sie gerade gebrauchte. Verständlich, so neu wie das ganze Feld war.
 
-Mit der Recherche der letzten Wochen und dem Kontakt mit Fachstudienberatern und praktizierenden UX-Designern habe ich mir ein immer klareres Bild von diesem Feld machen können. Ausgehend vom anfänglichen »Alles« konnte ich mir nun auch Schwerpunkte setzen.
+Ich nahm also alle Informationen zur Hand, die ich kriegen konnte und versuchte, mir einen Überblick zu verschaffen. Dabei stieß ich auf immer neue Definitionen und Überbegriffe. Dabei war auch Human-Computer-Interaction, was mich letztlich zu meinem Studienfach brachte.
 
-**Und jetzt?** Schließlich hat sich dann quasi alles gefügt und ich bin auf die Profession des _Usability & UX Consultant_ gestoßen – ich könnte mir keinen besseren Beruf für mich vorstellen. Kurz zur Erklärung:
+Mit der Zeit formte sich also ein Bild in meinem Kopf und ich Wörter wie *Interaction Design, UX, UI-Design, Information Architecture und HCI* zueinander in Beziehung setzen. War nun der erste Schritt getan, konnte ich mich mit jedem Begriff weiter auseinandersetzen. Zum Schluss wollte ich noch verstehen, wie die Arbeitsrealität der jeweiligen Tätigkeiten – z.B. eines *Interaction Designers* – aussieht. Im Vergleich mit meinen Stärken und Interessen kam ich so auf den richtigen Pfad.
 
-> **[Usability](http://www.usabilityreport.de/definition)** befasst sich mit der Effektivität, Effizienz und Zufriedenstellung von einem Produkt – ist es benutzerfreundlich?
->
-> **[User Experience](http://www.usabilityreport.de/definition)** geht einen Schritt weiter und umfasst die gesamtheitliche Erfahrung mit dem Produkt – wie ist das Nutzererlebnis?
+## Und jetzt? 
+Wollte ich zunächst noch *alles* machen, konnte ich mich jetzt auf *Usability & UX Consulting* festlegen. Was das meint, möchte ich kurz erklären:
 
-Ersteres kümmert sich in etwa um den bestmöglichen Gebrauch eines Produktes und letzteres sorgt dafür, dass der Nutzer eine gute Erfahrung macht und wiederkehrt.
+**[Usability](http://www.usabilityreport.de/definition)** befasst sich damit, ob ein Produkt effektiv, effizient und zufriedenstellend seine Aufgabe löst – [ist es benutzerfreundlich?](/usability-measures)
 
-**Consultant** Der _Usability & UX Consultant_ arbeitet in der Regel bei einer Agentur/selbstständig und _berät_ Firmen bezüglich der Usability & UX ihrer Produkte (bspw. Webseiten, Intranets). Dafür greift er auf sein Fachwissen und seine Erfahrung zurück und führt User-Tests durch, während er genau beobachtet. In Form von _Usability Reports_ oder _Vorträgen_ wird den Kunden das Ergebnis seiner Analyse präsentiert.
+**[User Experience](http://www.usabilityreport.de/definition)** geht einen Schritt weiter und umfasst die gesamtheitliche Erfahrung mit dem Produkt – [wie ist das *Nutzererlebnis*?](/key-elements-shedroff)
+
+Ersteres sorgt dafür, dass ein Produkt gut bedienbar ist und letzteres verspricht eine gut Erfahrung des Nutzers – er soll das Produkt *gerne* benutzen.
+
+**Consultant:** Ein _Usability & UX Consultant_ arbeitet in der Regel bei einer Agentur oder selbstständig und _berät_ Firmen bezüglich der Usability & UX ihrer Produkte. Das sind üblicherweise *Webseiten* und *Intranets*. Dafür greift er auf sein Fachwissen und seine Erfahrung zurück und koordiniert *User-Tests* und andere Methoden zur Erkenntnisgewinnung. In Form von _Usability Reports_ oder _Vorträgen_ wird dem Kunden das Ergebnis der Analyse präsentiert.

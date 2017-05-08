@@ -16,7 +16,7 @@ Grob unterscheidet sie, dass Wireframe und Mock-Up statisch sind, während Proto
 
 Ein Wireframe ist nichts weiter, als eine grobe Skizze bestehend aus grauen/schwarzen Linien, Kästen und maximal Überschriften. Bilder, Textblöcke, sowie andere visuelle Elemente lassen wir bewusst weg. So bleibt der Fokus auf Struktur, grundlegender Funktionalität und der Gruppierung des Inhalts. Mit Wireframes entwickeln und kommunizieren wir Ideen. Das gewonnene Feedback können wir in den nächsten Stufen direkt umgesetzten.
 
-![Usability Report als Wireframe](assets/wireframe.jpg)
+![Usability Report als Wireframe](/assets/wireframe.jpg)
 
 **Werkzeuge:** Es gibt zwar Software wie [Balsamiq](https://balsamiq.com), Stift und Papier reichen jedoch aus und vermeiden den Eindruck, dass der Entwurf schon ausgearbeitet und nicht mehr wirklich änderbar sei. Marker sind zu empfehlen, da wir uns mit ihnen nicht an Details aufhängen.
 
@@ -24,7 +24,7 @@ Ein Wireframe ist nichts weiter, als eine grobe Skizze bestehend aus grauen/schw
 
 Wie auch der Wireframe stellt ein Mock-Up in statischer Weise Struktur, Inhalt und Funktionalität dar. Hier arbeiten wir die visuellen Elemente soweit aus, dass das hochauflösende User Interface optisch schon dem Endprodukt gleicht. Mit Hilfe von Mock-Ups können wir visuelle Aspekte anschaulich kommunizieren.
 
-![Usability Report in Sketch](assets/mock-up.png)
+![Usability Report in Sketch](/assets/mock-up.png)
 
 **Werkzeuge:** [Sketch](https://www.sketchapp.com) kann ich sehr empfehlen. Wir können aber auch Photoshop oder einen beliebigen Vektor-Editor zu Hand nehmen.
 
@@ -35,7 +35,7 @@ Im Gegensatz zu den statischen Wireframes und Mock-Ups ist ein Prototyp interakt
 **Low-Fidelity Prototyp vs. High-Fidelitiy Prototyp**<br>
 Im Grunde gibt es zwei Arten von Prototypen: Ein Lo-Fi Prototyp besteht aus interaktiven grauen Kästen und einfachen Text-Elementen (vgl. Wireframe). High-Fidelity Prototypen entsprechen bedienbaren Mock-Ups. Ihre Erstellung ist etwas aufwändiger, jedoch können wir mit ihnen die Interaktion besonders realistisch gestaltet.
 
-![CSS Code in Atom](assets/blog-code.png)
+![CSS Code in Atom](/assets/blog-code.png)
 
 **Werkzeuge:** [Axure](https://www.axure.com) ist hier der Platzhirsch, ich bevorzuge [Justinmind](https://www.justinmind.com) aufgrund besserer Bedienbarkeit und schon vorhandenen Bibliotheken aus Interface-Elementen. Wenn man einen Webseiten Prototyp entwickelt, bietet sich die Verwendung von HTML und CSS an. So sparen wir Arbeit bei der späteren Implementierung.
 

@@ -1,11 +1,7 @@
 markdown: kramdown
-exclude: ["README.md", "Tumblr"]
 highlighter: rouge
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-redirect-from
+exclude: ["README.md", "Tumblr"]
+
 paginate: 5
 paginate_path: /page/:num
 permalink: /:title

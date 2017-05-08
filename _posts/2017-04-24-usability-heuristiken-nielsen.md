@@ -54,7 +54,7 @@ Wie lauten also die Faustregeln der Usability?
 10. **Hilfe und Dokumentation**<br>
     Obwohl es besser ist, wenn der Nutzer ein System ohne Hilfe benutzten kann, ist es manchmal Nötig, eine Dokumentation bereitzustellen. In dem Fall sind die Informationen einfach zu finden und konzentrieren sich auf die Aufgabe des Nutzers. Die Dokumentation enthält konkrete Schritte zur Ausführung und beschränkt sich auf das Wesentliche.
 
-[![Error on Windows](assets/windows-error.png)](https://www.medo64.com/2013/03/error-the-operation-completed-successfully/)
+[![Error on Windows](/assets/windows-error.png)](https://www.medo64.com/2013/03/error-the-operation-completed-successfully/)
 
 Anhand des [Artikels](https://www.nngroup.com/articles/ten-usability-heuristics/) von Jakob Nielsen habe ich die Punkte frei übersetzt, um deren Inhalt in möglichst präziser und einfacher Sprache wiedergeben zu können.
 

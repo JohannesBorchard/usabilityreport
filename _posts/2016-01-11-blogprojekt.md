@@ -6,13 +6,15 @@ excerpt_separator: <!-- more -->
 redirect_from: "/post/137097612597/blogprojekt"
 ---
 
-![Screenshot vom alten Layout](assets/blog-screenshot.png)
-
 Auch hinter der Seite, die du gerade geöffnet hast und dem Text, den du gerade liest steckt ein Prozess.
 
 Von der Idee bis zum fertigen Blog ist es kein geradliniger Weg. Vieles wird probiert und verworfen bis das Gesamtbild stimmig ist und gut ankommt. Die Methoden welche ich dabei verwendet habe, möchte ich in diesem Artikel präsentieren. Auch, wenn ich mich an dem User-Experience-Design-Prozess orientiert habe, beschränkte sich das _User Testing_ auf das Ausfragen meiner Mitmenschen.
 
-Wenn dich also interessiert, wie dieser Blog und seine Struktur entstanden ist, schau dir den Artikel an. <!-- more -->
+Wenn dich also interessiert, wie dieser Blog und seine Struktur entstanden ist, schau dir den Artikel an.
+
+![Screenshot vom alten Layout](/assets/blog-screenshot.png)
+
+<!-- more -->
 
 ## 1. Idee
 
@@ -26,17 +28,17 @@ _Der Blog müsste erstmal dokumentieren, was ich lerne und selber produziere. Am
 
 ## 3. Mind-Map
 
-Nun musste ich meinen Gedanken Struktur verleihen. So konnte ich nichts vergessen und hatte einen guten Überblick. Wenn mir so Unstimmigkeiten auffielen, konnte ich diese ebenfalls schnell überarbeiten. Hätte ich an diesem Punkt schon vor Ungeduld einen Blog erstellt, wäre ein Umschwenken nicht so einfach gewesen.![Mind Map](assets/blog-mind-map.jpg)
+Nun musste ich meinen Gedanken Struktur verleihen. So konnte ich nichts vergessen und hatte einen guten Überblick. Wenn mir so Unstimmigkeiten auffielen, konnte ich diese ebenfalls schnell überarbeiten. Hätte ich an diesem Punkt schon vor Ungeduld einen Blog erstellt, wäre ein Umschwenken nicht so einfach gewesen.![Mind Map](/assets/blog-mind-map.jpg)
 
 ## 4. Flow Chart
 
-In einer Flow Chart skizzierte ich die Wege, die ein Nutzer des Blogs gehen kann. So konnte ich sichergehen, dass die Informationsstruktur ein reibungslose Verwendung gewährleistet. Die nötigen Klicks von der Startseite bis zum Erreichen _dieses Artikels_ sind so auf einen Blick erkennbar. Auch hier kann frühzeitig und einfach korrigiert werden. Später würde dies eine Komplette Umgestaltung der Seite bedeuten. ![Flow Chart](assets/blog-flow-chart.jpg)
+In einer Flow Chart skizzierte ich die Wege, die ein Nutzer des Blogs gehen kann. So konnte ich sichergehen, dass die Informationsstruktur ein reibungslose Verwendung gewährleistet. Die nötigen Klicks von der Startseite bis zum Erreichen _dieses Artikels_ sind so auf einen Blick erkennbar. Auch hier kann frühzeitig und einfach korrigiert werden. Später würde dies eine Komplette Umgestaltung der Seite bedeuten. ![Flow Chart](/assets/blog-flow-chart.jpg)
 
 ## 5. Content-Skizzen
 
 Da ich mit Tumblr ohnehin wenig Einfluss auf das Layout hatte, machte ich an dieser Stelle mit dem Inhalt weiter.
 
-Nachdem ich allgemeine Struktur des Blogs in der Flow Chart erstellt habe, war nun der Inhalt dran. Mit Stift und Papier machte ich mir nun Gedanken darüber, was zum Beispiel in einen 'Über'-Text gehört. Auf diese Weise konnte ich mich nicht von Fragen über Formatierung oder Formulierung ablenken lassen. ![Blog Content](assets/blog-pages.jpg)![Schreibtisch bei FECADESJ](assets/workspace.jpg)
+Nachdem ich allgemeine Struktur des Blogs in der Flow Chart erstellt habe, war nun der Inhalt dran. Mit Stift und Papier machte ich mir nun Gedanken darüber, was zum Beispiel in einen 'Über'-Text gehört. Auf diese Weise konnte ich mich nicht von Fragen über Formatierung oder Formulierung ablenken lassen. ![Blog Content](/assets/blog-pages.jpg)![Schreibtisch bei FECADESJ](/assets/workspace.jpg)
 
 ## 7. Implementierung
 

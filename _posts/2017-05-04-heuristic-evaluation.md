@@ -19,7 +19,7 @@ Die [_Heuristische Evaluation_](https://www.nngroup.com/articles/how-to-conduct-
 
 ## Vorgehen
 
-Da es für _eine_ Person kaum möglich ist, alle Probleme ausfindig zu machen, führt in der Regel eine Gruppe aus fünf Gutachtern die _Heuristische Evaluation_ durch. So können bereits [75% der Usability-Probleme gefunden werden](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/). Voraussetzung ist, dass alle intensiv mit den [„Usability Heuristiken"](http://www.usabilityreport.de/usability-heuristiken-nielsen) bzw. den verwendeten Prinzipien vertraut sind. [![Nielsen Norman Group Licence: All Rights Reserved](assets/heuristic-matrix.gif)](https://media.nngroup.com/media/editor/2012/10/30/heuristic_matrix.gif) _[Grafik](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) mit Erlaubnis der [Nielsen Norman Group](https://www.nngroup.com)_
+Da es für _eine_ Person kaum möglich ist, alle Probleme ausfindig zu machen, führt in der Regel eine Gruppe aus fünf Gutachtern die _Heuristische Evaluation_ durch. So können bereits [75% der Usability-Probleme gefunden werden](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/). Voraussetzung ist, dass alle intensiv mit den [„Usability Heuristiken"](http://www.usabilityreport.de/usability-heuristiken-nielsen) bzw. den verwendeten Prinzipien vertraut sind. [![Nielsen Norman Group Licence: All Rights Reserved](/assets/heuristic-matrix.gif)](https://media.nngroup.com/media/editor/2012/10/30/heuristic_matrix.gif) _[Grafik](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) mit Erlaubnis der [Nielsen Norman Group](https://www.nngroup.com)_
 
 ## Unabhängige Evaluation
 

@@ -10,7 +10,7 @@ redirect_from: "/post/154981942842/thesen"
 
 In diesem Artikel möchte ich seine *Zehn Thesen für gutes Design* vorstellen.<!-- more -->
 
-[![Regalsystem 606](assets/606-regal.jpg)](https://de.wikipedia.org/wiki/Dieter_Rams#/media/File:606-Universal-Shelving-System.jpg)
+[![Regalsystem 606](/assets/606-regal.jpg)](https://de.wikipedia.org/wiki/Dieter_Rams#/media/File:606-Universal-Shelving-System.jpg)
 
 **1. Gutes Design ist innovativ**
 

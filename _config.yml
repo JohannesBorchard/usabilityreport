@@ -1,7 +1,6 @@
 markdown: kramdown
 exclude: ["README.md", "Tumblr"]
 highlighter: rouge
-siteurl: 
 gems:
   - jekyll-paginate
   - jekyll-sitemap

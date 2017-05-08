@@ -9,3 +9,5 @@ gems:
 paginate: 5
 paginate_path: /page/:num
 permalink: /:title
+url: "http://www.usabilityreport.de/"
+baseurl: ""

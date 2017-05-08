@@ -1,15 +1,15 @@
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: http://www.usabilityreport.de/sitemap.xml
 User-agent: *
 Disallow: /
 
 User-agent: Googlebot
-Disallow:
+Disallow: /impressum
 
 User-agent: DuckDuckBot
-Disallow:
+Disallow: /impressum
 
 User-agent: Bingbot
-Disallow:
+Disallow: /impressum
 
 User-agent: Slurp
-Disallow:
+Disallow: /impressum

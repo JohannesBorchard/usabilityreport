@@ -18,8 +18,8 @@
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
-  {% if page.image %} <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
-  {% else %} <meta content="/assets/profile-sq-bw.jpg" property="og:image"> {% endif %}
+  {% if page.image %} <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+  {% else %} <meta content="{{ site.url }}/assets/profile-sq-bw.jpg" property="og:image"> {% endif %}
   <meta property="article:author" content="https://www.facebook.com/johannes.borchard.1" />
 
   <style media="screen">

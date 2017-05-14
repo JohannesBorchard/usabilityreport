@@ -4,6 +4,7 @@ title: Heuristische Evaluation nach Nielsen - Systeme bewerten ohne zu fluchen
 excerpt_separator: <!-- more -->
 category:
   - Einfach erklärt
+  - Methoden
 image: assets/heuristic-matrix.gif
 ---
 

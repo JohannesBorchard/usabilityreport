@@ -5,6 +5,7 @@ excerpt_separator: <!-- more -->
 category:
   - Aufzählung
   - Einfach erklärt
+  - Methoden
 redirect_from: "/post/159821351802/heuristiken"
 ---
 

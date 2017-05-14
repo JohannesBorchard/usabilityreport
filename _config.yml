@@ -5,4 +5,4 @@ exclude: ["README.md", "Tumblr"]
 paginate: 5
 paginate_path: /page/:num
 permalink: /:title
-url: www.usabilityreport.de
+url: http://www.usabilityreport.de

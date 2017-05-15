@@ -1,15 +1,4 @@
 Sitemap: http://www.usabilityreport.de/sitemap.xml
 User-agent: *
-Disallow: /
-
-User-agent: Googlebot
 Disallow: /impressum
-
-User-agent: DuckDuckBot
-Disallow: /impressum
-
-User-agent: Bingbot
-Disallow: /impressum
-
-User-agent: Slurp
-Disallow: /impressum
+Noindex: /impressum

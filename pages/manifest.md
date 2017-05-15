@@ -2,6 +2,7 @@
 layout: page
 title: Manifest
 permalink: /manifest
+redirect_from: /manifesto
 description: Ich bin davon überzeugt, dass Technik für den Menschen da sein sollte und das auch leisten kann. Du auch?
 ---
 

@@ -10,4 +10,4 @@ gems:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
-url: http://www.usabilityreport.de
+# url: http://www.usabilityreport.de

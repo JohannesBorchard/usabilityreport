@@ -3,14 +3,16 @@ layout: page
 title: Impressum und Disclaimer
 permalink: /impressum
 description: Rechtliche Informationen und Kontaktdaten von Usability Report
+sitemap: false
 ---
 
 ## Impressum
 
 ### Angaben gemäß § 5 TMG:
+
 <div itemscope itemtype="http://schema.org/Person">
 <span itemprop="givenName">Johannes</span> <span itemprop="familyName">Borchard</span>
-<span itemprop="adress">Elsa-Brandström-Straße 6  
+<span itemprop="adress">Elsa-Brandström-Straße 6
 97218 Gerbrunn</span>
 
 ### Kontakt:
@@ -41,8 +43,8 @@ description: Rechtliche Informationen und Kontaktdaten von Usability Report
 </div>
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Johannes Borchard  
-Elsa-Brandström-Straße 6  
+Johannes Borchard
+Elsa-Brandström-Straße 6
 97218 Gerbrunn
 
 ## Haftungsausschluss (Disclaimer)
@@ -77,7 +79,7 @@ Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in
 
 **Browser Plugin**
 
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de)
+Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: <https://tools.google.com/dlpage/gaoptout?hl=de>
 
 **Widerspruch gegen Datenerfassung**
 
@@ -87,4 +89,4 @@ Sie können die Erfassung Ihrer Daten durch Google Analytics verhindern, indem S
 
 Unsere Seiten nutzen Schaltflächen des Dienstes Tumblr. Anbieter ist die Tumblr, Inc., 35 East 21st St, 10th Floor, New York, NY 10010, USA. Diese Schaltflächen ermöglichen es Ihnen, einen Beitrag oder eine Seite bei Tumblr zu teilen oder dem Anbieter bei Tumblr zu folgen. Wenn Sie eine unserer Webseiten mit Tumblr-Button aufrufen, baut der Browser eine direkte Verbindung mit den Servern von Tumblr auf. Wir haben keinen Einfluss auf den Umfang der Daten, die Tumblr mit Hilfe dieses Plugins erhebt und übermittelt. Nach aktuellem Stand werden die IP-Adresse des Nutzers sowie die URL der jeweiligen Webseite übermittelt.
 
-Weitere Informationen hierzu finden sich in der Datenschutzerklärung von Tumblr unter [http://www.tumblr.com/policy/de/privacy](http://www.tumblr.com/policy/de/privacy).
+Weitere Informationen hierzu finden sich in der Datenschutzerklärung von Tumblr unter <http://www.tumblr.com/policy/de/privacy>.

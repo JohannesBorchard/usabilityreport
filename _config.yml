@@ -10,7 +10,7 @@ paginate: 5
 paginate_path: /page/:num
 permalink: /:title
 gems:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
 # url: http://www.usabilityreport.de

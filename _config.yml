@@ -1,3 +1,6 @@
+name: Usability Report
+description: Auf Usability Report erscheinen wöchentlich Artikel mit Tipps und Informationen für angehende Usabilty & User Experience Experten.
+
 markdown: kramdown
 highlighter: rouge
 exclude: ["README.md", "Tumblr"]

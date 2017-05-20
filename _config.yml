@@ -7,7 +7,7 @@ exclude: ["README.md", "Tumblr"]
 safe: false
 paginate: 5
 paginate_path: /page/:num
-permalink: /:title
+permalink: /:title/
 gems:
   # - jekyll-feed
   - jekyll-redirect-from

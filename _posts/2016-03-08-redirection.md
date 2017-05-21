@@ -5,7 +5,9 @@ category:
   - Persönlich
   - Einfach erklärt
 excerpt_separator: <!-- more -->
-redirect_from: /post/140696736677/redirection
+redirect_from:
+  - /post/140696736677/redirection
+  - post/140696736677/usability-user-experience-consultant
 ---
 
 Wie es die neue Domain [usabilityreport.de](http://www.usabilityreport.de/) und weitere [kleine Veränderungen](http://www.usabilityreport.de/about) schon erahnen lassen, hat sich diese Homepage – und damit auch meine Ausrichtung – einer kleinen Kursänderung unterzogen. Dieser Artikel erklärt, wohin es geht und was Usability & UX Consulting bedeutet.<!-- more -->

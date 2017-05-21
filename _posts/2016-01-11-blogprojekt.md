@@ -3,7 +3,7 @@ layout: post
 title: Wie ist dieser Blog entstanden?
 category: Persönlich
 excerpt_separator: <!-- more -->
-redirect_from: "/post/137097612597/blogprojekt"
+redirect_from: /post/137097612597/blogprojekt
 ---
 
 Auch hinter der Seite, die du gerade geöffnet hast und dem Text, den du gerade liest steckt ein Prozess.

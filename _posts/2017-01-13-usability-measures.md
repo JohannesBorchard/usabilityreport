@@ -2,7 +2,7 @@
 layout: post
 title: Wie misst man überhaupt Usability?
 category: Einfach erklärt
-redirect_from: "/post/155812601322/wie-misst-man-bitteschön-usability"
+redirect_from: /post/155812601322/wie-misst-man-bitteschön-usability
 ---
 
 Der Nutzen (Utility) eines Produkts lässt sich leicht messen, in dem man überprüft, ob es tut, was es soll.

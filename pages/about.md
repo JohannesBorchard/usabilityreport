@@ -2,6 +2,9 @@
 layout: page
 title: Person
 permalink: /about
+redirect_from:
+  - /about/
+  - /person
 description: Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden.
 image: /assets/profile-bw.jpg
 ---

@@ -3,12 +3,12 @@ layout: post
 title: Diese 10 Thesen von Dieter Rams sollten Allgemeinbildung sein
 category: Aufzählung
 excerpt_separator: <!-- more -->
-redirect_from: "/post/154981942842/thesen"
+redirect_from: /post/154981942842/thesen
 ---
 
 [Dieter Rams](https://www.vitsoe.com/de/ueber-vitsoe/dieter-rams) ist ein deutscher Industriedesigner und für seine zeitlosen Produkte (z.B. für Braun oder Vitsoe) bekannt. Er prägte maßgeblich das Prinzip des Funktionalismus („Form Follows Function“).
 
-In diesem Artikel möchte ich seine *Zehn Thesen für gutes Design* vorstellen.<!-- more -->
+In diesem Artikel möchte ich seine _Zehn Thesen für gutes Design_ vorstellen.<!-- more -->
 
 [![Regalsystem 606](/assets/606-regal.jpg)](https://de.wikipedia.org/wiki/Dieter_Rams#/media/File:606-Universal-Shelving-System.jpg)
 

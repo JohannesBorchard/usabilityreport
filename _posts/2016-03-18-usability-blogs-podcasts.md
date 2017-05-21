@@ -4,8 +4,9 @@ title: Top 10 Usability & UX Blogs + Podcasts
 date: '2016-03-18T09:48:43+01:00'
 category: Aufzählung
 excerpt_separator: <!-- more -->
-redirect_from: "/post/141254320992/topten"
-redirect_from: "/post/141254320992"
+redirect_from:
+  - /post/141254320992/topten
+  - /post/141254320992
 ---
 
 Gerade im englischsprachigen Raum ist das Angebot an Blogs, Magazinen und Podcasts zu User Experience und Usability groß.

@@ -2,6 +2,7 @@
 layout: page
 title: Impressum und Disclaimer
 permalink: /impressum
+redirect_from: /impressum/
 description: Rechtliche Informationen und Kontaktdaten von Usability Report
 sitemap: false
 ---

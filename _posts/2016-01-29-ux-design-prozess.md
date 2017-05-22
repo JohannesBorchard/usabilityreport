@@ -6,6 +6,7 @@ category:
   - Methoden
 excerpt_separator: <!-- more -->
 redirect_from: /post/138294006182/der-ux-design-prozess
+image: /assets/user-centered-design.png
 ---
 
 ## Was macht ein UX-Designer?

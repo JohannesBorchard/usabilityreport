@@ -4,6 +4,7 @@ title: 'Wüsstest du den Unterschied zwischen Wireframe, Mock-Up und Prototyp?'
 category: Einfach erklärt
 excerpt_separator: <!-- more -->
 redirect_from: /post/158024722002/wireframe-mockup-prototyp
+image: /assets/wireframe.jpg
 ---
 
 Sicherlich hast du die Begriffe schon mal gehört – und vielleicht wurden sie dabei sogar als Synonym oder im falschen Kontext verwendet. Da ich selber nicht wirklich sagen konnte, wann wir nun ein Mock-Up und wann einen Prototypen verwenden und was die beiden von einem Wireframe unterscheidet, habe ich mal etwas recherchiert. Herausgekommen ist dabei dieser Artikel. <!-- more -->

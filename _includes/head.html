@@ -22,6 +22,12 @@
   {% else %} <meta content="{{ site.url }}/assets/profile-sq-bw.jpg" property="og:image"> {% endif %}
   <meta property="article:author" content="https://www.facebook.com/johannes.borchard.1" />
 
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@usabilityrep">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/profile-sq-bw.jpg">
+
   <style media="screen">
 
     {% include main.css %}

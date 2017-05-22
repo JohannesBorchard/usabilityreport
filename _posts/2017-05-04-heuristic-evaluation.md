@@ -5,7 +5,7 @@ excerpt_separator: <!-- more -->
 category:
   - Einfach erklärt
   - Methoden
-image: /assets/heuristic-matrix.gif
+image: /assets/heuristic-matrix.jpg
 ---
 
 [Im ersten Teil der Serie](http://www.usabilityreport.de/usability-heuristiken-nielsen) _Systeme bewerten ohne zu fluchen_ haben wir bereits die _Zehn Usability Heuristiken_ von Nielsen kennengelernt. Ohne Kontext können wir jedoch nur wenig mit ihnen anfangen.

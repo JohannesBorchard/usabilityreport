@@ -6,7 +6,7 @@ category:
   - Aufzählung
   - Einfach erklärt
   - Methoden
-image: /assets/windows-error.png
+image: /assets/windows-error.jpg
 redirect_from: /post/159821351802/heuristiken
 ---
 

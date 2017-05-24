@@ -4,6 +4,7 @@ title: Wie misst man etwas wie Usability?
 category: Einfach erklärt
 excerpt_separator: <!-- more -->
 redirect_from: /post/155812601322/wie-misst-man-bitteschön-usability
+image: /assets/Shackel.jpg
 ---
 
 Ob ein Produkt tut, was es soll (Utility), lässt sich einfach mit einem _Ja_ oder _Nein_ beantworten. Doch wie misst man etwas wie Usability?

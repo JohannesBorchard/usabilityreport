@@ -104,7 +104,9 @@ Der abschließende [Bericht](https://www.usability.gov/how-to-and-tools/methods/
 
 Usability Testing ist eine effiziente Methode, um frühzeitig Usability-Probleme zu finden und die Akzeptanz und Zufriedenheit bei den Nutzern zu ermitteln.
 
-Bei der Produktentwicklung sollten wir immer auf _Usability Testing_ zurückgreifen. Größte Genauigkeit und Aussagekraft erhalten wir mit einer repräsentativen Gruppe an Teilnehmern.
+Die wichtigste Erkenntnis ist, dass _wir nicht die Nutzer unserer Produkte_ sind.
+
+Darum sollten wir bei der Produktentwicklung immer auf _Usability Testing_ zurückgreifen. Größte Genauigkeit und Aussagekraft erhalten wir mit einer repräsentativen Gruppe an Teilnehmern.
 
 Trotzdem ist ein spontaner Test mit drei Freunden immer noch besser als gar keiner.
 

@@ -4,7 +4,7 @@ title: Warum du im Webdesign nicht auf dein Bauchgefühl, sondern auf A/B-Tests 
 excerpt_separator: <!-- more -->
 category:
   - Methoden
-image: /assets/split-test.svg
+image: /assets/split-test.jpg
 ---
 
 Wenn du dich auf den Seiten von Google, Amazon oder Ebay bewegst, siehst du mit hoher Wahrscheinlichkeit nicht das selbe Layout wie alle anderen. Und wenn das der Fall ist, bist du Teil eines sogenannten _A/B-Tests_.

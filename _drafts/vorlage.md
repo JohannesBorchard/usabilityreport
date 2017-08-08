@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: 
 excerpt_separator: <!-- more -->
 category:
   -

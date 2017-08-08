@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /contact
-redirect_from: /contact/
+## redirect_from: /contact/
 description: Über die hier angegebenen Kanäle bin ich erreichbar.
 ---
 

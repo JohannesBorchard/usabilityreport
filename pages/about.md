@@ -3,7 +3,6 @@ layout: page
 title: Person
 permalink: /about
 redirect_from:
-  - /about/
   - /person
 description: Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden.
 image: /assets/profile-bw.jpg
@@ -11,16 +10,16 @@ image: /assets/profile-bw.jpg
 
 <img src="/assets/profile-bw.jpg" alt="Profilbild" id="profile-picture">
 
-_Mein Name ist Johannes Borchard und ich möchte »Usability & User Experience Consultant« werden._
+Mein Name ist Johannes Borchard und ich möchte mich dafür einsetzen, [dass Technik unser Leben verbessert, anstatt es komplizierter zu machen](http://www.usabilityreport.de/manifest). Aktuell studiere ich _Mensch-Computer-Systeme_ an der JMU Würzburg. Später möchte ich _Usability & UX Consultant_ werden.
 
-Seit Oktober 2016 studiere ich in Würzburg »Mensch-Computer-Systeme«. Wie kommt man auf sowas?
+_Wie man auf so etwas kommt?_
 
-Nach dem Abitur 2015 habe ich mich für ein Jahr [als Weltwärts-Freiwilliger in die Dominikanische Republik](http://impacto-cultural.tumblr.com/) begeben und mich dort bei einem Kaffeeverband intensiv mit PR und Webdesign beschäftigt.
+Schon lange bin ich fasziniert von gutem Design und der Funktionsweise von Produkten.
 
-Dabei mangelte es auch nicht an freier Zeit und der Nährboden für neue Ideen und Pläne war gegeben. [Halb systematisch, halb durch Zufall bin ich dann auf das Feld »Usability & User Experience«](http://www.usabilityreport.de/suche) und damit auf nicht weniger als meine Berufung gestoßen.
+Zwischen Schule und Studium [half ich einer dominikanischen Kaffeekooperative als Freiwilliger](http://impacto-cultural.tumblr.com) in den Bereichen Webdesign und PR. Nebenbei [stieß ich zum ersten Mal auf den Begriff _User Experience_](http://www.usabilityreport.de/anfang). Aus gewecktem Interesse wurde Begeisterung und schließlich entschied ich mich, das Thema beruflich zu verfolgen.
 
-Mit dem Privileg von freier Zeit und (_mas o menos_ stabilem) Internetzugang machte ich mich also über Monate hinweg ans Eigenstudium, um so viel wie möglich über das neue Gebiet zu erfahren. Nach einiger Recherche habe ich mich zudem für die JMU Würzburg als formale Ausbildungsstelle entschieden, wo ich inzwischen auch studiere.
+Nun studiere ich also _Mensch-Computer-Systeme_ mit Ausblick auf den Master in _Human-Computer Interaction_ und ich fühle mich genau am richtigen Platz. Neben Einblicken in die Informatik und die Psychologie bekomme ich die Möglichkeit, Methoden des _User Experience Design_ in Projekten zu erproben.
 
-Da ich das neuerlernte Wissen nicht für mich behalten und auch andere für das Fach motivieren möchte, habe ich nun diesen Blog gegründet.
+Mit diesem Blog möchte ich noch mehr Menschen für das Thema begeistern und gesammelte Erfahrungen und Einsichten mit euch teilen.
 
-Viel Spaß beim Entdecken!
+Worüber ich bisher geschrieben habe, erfährst du in der [Artikelübersicht](http://www.usabilityreport.de/articles). Wenn du als Erster über neue Artikel erfahren möchtest, trag dich einfach am Ende der Seite in den Newsletter ein.

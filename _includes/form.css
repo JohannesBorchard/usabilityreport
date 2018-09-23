@@ -67,10 +67,6 @@
   }
 }
 
-.button:hover {
-  background-color: #e6947f;
-}
-
 #bear-trap {
   position: absolute;
   left: -5000px;

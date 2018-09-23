@@ -4,7 +4,6 @@ title: Was ist User Experience (UX)?
 permalink: /user-experience
 redirect_from:
   - /definition
-  - /user-experience/
 description: Um User Experience zu verstehen, musst du Utility und Usability kennen. Hier erkläre ich alle drei Begriffe.
 ---
 

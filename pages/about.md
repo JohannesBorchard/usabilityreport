@@ -8,7 +8,7 @@ description: Mein Name ist Johannes Borchard und ich möchte »Usability & User 
 image: /assets/profile-bw.jpg
 ---
 
-<img src="/assets/profile-bw.jpg" alt="Profilbild" id="profile-picture">
+<img src="/assets/profile-new.jpg" alt="Profilbild" id="profile-picture">
 
 Mein Name ist Johannes Borchard und ich möchte mich dafür einsetzen, [dass Technik unser Leben verbessert, anstatt es komplizierter zu machen](http://www.usabilityreport.de/manifest). Aktuell studiere ich _Mensch-Computer-Systeme_ an der JMU Würzburg. Später möchte ich _Usability & UX Consultant_ werden.
 

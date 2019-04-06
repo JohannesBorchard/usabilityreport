@@ -2,7 +2,6 @@
 layout: page
 title: Impressum und Disclaimer
 permalink: /impressum
-redirect_from: /impressum/
 description: Rechtliche Informationen und Kontaktdaten von Usability Report
 sitemap: false
 ---
@@ -13,10 +12,9 @@ sitemap: false
 
 <div itemscope itemtype="http://schema.org/Person">
 <span itemprop="givenName">Johannes</span> <span itemprop="familyName">Borchard</span>
-<span itemprop="adress">Elsa-Brandström-Straße 6
-97218 Gerbrunn</span>
+<div itemprop="adress">Elsa-Brandström-Straße 6
+97218 Gerbrunn</div>
 
-### Kontakt:
 
 <table>
 
